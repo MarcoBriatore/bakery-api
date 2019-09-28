@@ -1,0 +1,1388 @@
+[
+    {
+        "id": 1,
+        "name": "Angel cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Angel_cake_slice.jpg/120px-Angel_cake_slice.jpg",
+        "origin": "United Kingdom [1] ",
+        "ingredients": "Sponge cake, cream, food colouring "
+    },
+    {
+        "id": 2,
+        "name": "Angel food cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Angel_food_cake_with_strawberries_%284738859336%29.jpg/120px-Angel_food_cake_with_strawberries_%284738859336%29.jpg",
+        "origin": "United States ",
+        "ingredients": "Egg whites, vanilla, and cream of tartar "
+    },
+    {
+        "id": 3,
+        "name": "Apple cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hollandse_appeltaart.jpg/120px-Hollandse_appeltaart.jpg",
+        "origin": "Germany ",
+        "ingredients": "Apple, caramel icing "
+    },
+    {
+        "id": 4,
+        "name": "Applesauce cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Applesauce_cake.jpg/120px-Applesauce_cake.jpg",
+        "origin": "Early colonial times in the New England Colonies of the Northeastern United States[2] ",
+        "ingredients": "Prepared using apple sauce, flour and sugar as primary ingredients "
+    },
+    {
+        "id": 5,
+        "name": "Aranygaluska ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Arany-galuska.jpg/120px-Arany-galuska.jpg",
+        "origin": "HungaryRomania ",
+        "ingredients": "A cake with yeasty dough and vanilla custard "
+    },
+    {
+        "id": 6,
+        "name": "Avocado cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Mocha_almond_fudge_avocado_cake_%284673005762%29.jpg/120px-Mocha_almond_fudge_avocado_cake_%284673005762%29.jpg",
+        "origin": " ",
+        "ingredients": "Prepared using avocado as a primary ingredient "
+    },
+    {
+        "id": 7,
+        "name": "Babka ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Baba_or_babka_wielkanocna.jpg/120px-Baba_or_babka_wielkanocna.jpg",
+        "origin": "Poland ",
+        "ingredients": "Easter cake with icing "
+    },
+    {
+        "id": 8,
+        "name": "Ballokume [3] ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Banana_cake.jpg/120px-Banana_cake.jpg",
+        "origin": "Albania ",
+        "ingredients": "Corn flour, butter, sugar, and vanilla "
+    },
+    {
+        "id": 9,
+        "name": "Banana cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Basboosa.jpg/120px-Basboosa.jpg",
+        "origin": " ",
+        "ingredients": "Prepared using banana as a primary ingredient "
+    },
+    {
+        "id": 10,
+        "name": "Basbousa ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Malaysian_batik_cake.jpg/120px-Malaysian_batik_cake.jpg",
+        "origin": "Lebanon ",
+        "ingredients": "A traditional Lebanese sweet cake that is made of cooked semolina or farina soaked in simple syrup. Coconut is a popular addition. The syrup may also optionally contain orange flower water or rose water. "
+    },
+    {
+        "id": 11,
+        "name": "Batik cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Baumkuchen%2Cdresden%2CDeutschland.JPG/120px-Baumkuchen%2Cdresden%2CDeutschland.JPG",
+        "origin": "Malaysia ",
+        "ingredients": "A non-baked cake dessert made by mixing broken Marie biscuits, combined with a chocolate sauce or runny custard. "
+    },
+    {
+        "id": 12,
+        "name": "Baumkuchen ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bebinca_com_gelado.jpg/120px-Bebinca_com_gelado.jpg",
+        "origin": "Germany ",
+        "ingredients": "A German variety of spit cake also popular in Japan. The characteristic rings, which resemble tree rings when sliced, give the cake its German name. "
+    },
+    {
+        "id": 13,
+        "name": "Bebinca ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chocolate_Stout_Cake.jpg/120px-Chocolate_Stout_Cake.jpg",
+        "origin": "India ",
+        "ingredients": "Flour, sugar, ghee (clarified butter), coconut milk, egg yolk "
+    },
+    {
+        "id": 14,
+        "name": "Beer cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Better_than_sex_cake.jpg/120px-Better_than_sex_cake.jpg",
+        "origin": " ",
+        "ingredients": "Cake prepared with beer as a main ingredient. Pictured is a chocolate bundt cake infused with stout beer. "
+    },
+    {
+        "id": 15,
+        "name": "Better than sex cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Bostoncreampie.jpg/120px-Bostoncreampie.jpg",
+        "origin": "United States ",
+        "ingredients": "Chocolate or yellow cake, sugar mixture, various fillings "
+    },
+    {
+        "id": 16,
+        "name": "Boston cream pie ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Banananutbread.jpg/120px-Banananutbread.jpg",
+        "origin": "United States ",
+        "ingredients": "Egg custard, chocolate "
+    },
+    {
+        "id": 17,
+        "name": "Banana cake/bread ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Banoffeepie.jpg/120px-Banoffeepie.jpg",
+        "origin": "United States ",
+        "ingredients": "Banana, sometimes nuts and chocolate "
+    },
+    {
+        "id": 18,
+        "name": "Banoffee pie ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bara_Brith.jpg/120px-Bara_Brith.jpg",
+        "origin": "United Kingdom ",
+        "ingredients": "Bananas, toffee, biscuits "
+    },
+    {
+        "id": 19,
+        "name": "Bara brith ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lyons_battenberg_cake.jpg/120px-Lyons_battenberg_cake.jpg",
+        "origin": "United Kingdom (Wales) ",
+        "ingredients": "Raisins, currants and candied peel "
+    },
+    {
+        "id": 20,
+        "name": "Battenberg cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Baumkuchen.jpg/120px-Baumkuchen.jpg",
+        "origin": "United Kingdom ",
+        "ingredients": "Marzipan and apricot jam "
+    },
+    {
+        "id": 21,
+        "name": "Baumkuchen ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Large_bibinka.jpg/120px-Large_bibinka.jpg",
+        "origin": "Germany ",
+        "ingredients": "A kind of layered cake and a traditional dessert that is known in many countries throughout Europe and it is also a popular snack and dessert in Japan. The characteristic rings that appear when sliced resemble tree rings, and give the cake its German name, Baumkuchen, which literally translates to \"tree cake\". "
+    },
+    {
+        "id": 22,
+        "name": "Bibingka ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bienenstich.jpg/120px-Bienenstich.jpg",
+        "origin": "Philippines ",
+        "ingredients": "Coconut milk and rice flour "
+    },
+    {
+        "id": 23,
+        "name": "Bienenstich (Bee Sting) ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Birthday_cake.jpg/120px-Birthday_cake.jpg",
+        "origin": "Germany ",
+        "ingredients": "Almonds, honey, custard cream "
+    },
+    {
+        "id": 24,
+        "name": "Birthday cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/DominicanCake.jpg/120px-DominicanCake.jpg",
+        "origin": "Unknown ",
+        "ingredients": "A cake that has various ingredients, usually chocolate or sponge, and is often topped with icing and candles; the number of candles on top of the cake is often said to represent someone's age - for example, a birthday cake for a nine-year-old will have nine candles on top of it. "
+    },
+    {
+        "id": 25,
+        "name": "Bizcocho Dominicano ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Kirschtorte.jpg/120px-Kirschtorte.jpg",
+        "origin": "Dominican Republic ",
+        "ingredients": "A cake with a moist and airy texture and meringue frosting "
+    },
+    {
+        "id": 26,
+        "name": "Black Forest cake, often known as \"Black Forest gâteau\" or \"Schwarzwälder Kirschtorte\" ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Blackout_cake.jpg/120px-Blackout_cake.jpg",
+        "origin": "Germany ",
+        "ingredients": "Cherries, kirsch, and chocolate "
+    },
+    {
+        "id": 27,
+        "name": "Blackout cake, sometimes known as \"Brooklyn Blackout cake\" ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Toffee_blondies.jpg/120px-Toffee_blondies.jpg",
+        "origin": "Brooklyn, United States ",
+        "ingredients": "Chocolate pudding, chocolate layers, chocolate cake crumbs "
+    },
+    {
+        "id": 28,
+        "name": "Blitztorte [4] ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/%22Bolo_de_mel%22_cakes%2C_Madeira.jpg/120px-%22Bolo_de_mel%22_cakes%2C_Madeira.jpg",
+        "origin": "Germany ",
+        "ingredients": "A \"lightning cake\" or \"quick cake\".[5] Lemon zest and lemon juice add flavor to a blitztorte, which is a butter cake (butter, sugar, eggs, flour, and baking powder). It is called a blitztorte because it is quick to make. Also spelled as \"blitz torte\". "
+    },
+    {
+        "id": 29,
+        "name": "Blondie ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Brazo_de_mercedes.jpg/120px-Brazo_de_mercedes.jpg",
+        "origin": "United States ",
+        "ingredients": "A rich, sweet dessert bar. It is made from flour, brown sugar, butter, eggs, baking powder, and vanilla, and may also contain walnuts or pecans. It may contain white or dark chocolate chips and it can have a taste reminiscent of butterscotch. "
+    },
+    {
+        "id": 30,
+        "name": "Bolo de mel ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Butterkuchen2.JPG/120px-Butterkuchen2.JPG",
+        "origin": "Madeira Islands ",
+        "ingredients": "Sweet, heavy cake made with molasses or honey, often with walnuts and almonds. Literally means \"honey cake\". "
+    },
+    {
+        "id": 31,
+        "name": "Brazil nut cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Chocolate_brownie.jpg/120px-Chocolate_brownie.jpg",
+        "origin": " ",
+        "ingredients": "Prepared using Brazil nuts as a primary ingredient, they are common in the Amazon region of Brazil, Bolivia and Peru "
+    },
+    {
+        "id": 32,
+        "name": "Brazo de Mercedes ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Buccellato_1.jpg/120px-Buccellato_1.jpg",
+        "origin": "Philippines ",
+        "ingredients": "A traditional Filipino meringue roll with a custard filling typically dusted with powdered sugar. "
+    },
+    {
+        "id": 33,
+        "name": "Butterkuchen ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Budapestbakelse_B%C3%85n.JPG/120px-Budapestbakelse_B%C3%85n.JPG",
+        "origin": "Germany ",
+        "ingredients": "A simple buttery and sweet German cake baked on a tray[6] "
+    },
+    {
+        "id": 34,
+        "name": "Brownie ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/BundtCake.JPG/120px-BundtCake.JPG",
+        "origin": "United States, Canada ",
+        "ingredients": "A flat, baked square or bar developed in the United States at the end of the 19th century and popularized in both the US and Canada during the first half of the 20th century. "
+    },
+    {
+        "id": 35,
+        "name": "Buccellato ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hazelnut_brown_butter_cake.jpg/120px-Hazelnut_brown_butter_cake.jpg",
+        "origin": "Sicily ",
+        "ingredients": "Honey, marsala wine, aniseed, and raisins "
+    },
+    {
+        "id": 36,
+        "name": "Budapestlängd [7] ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Plain_butterfly_cake.jpg/120px-Plain_butterfly_cake.jpg",
+        "origin": "Sweden ",
+        "ingredients": "Rolled meringue-hazelnut cake filled with whipped cream and pieces of canned peach, apricot, or mandarin orange. "
+    },
+    {
+        "id": 37,
+        "name": "Bundt cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Cassata_siciliana.jpg/120px-Cassata_siciliana.jpg",
+        "origin": "United States ",
+        "ingredients": "A cake that is baked in a Bundt pan, shaping it into a distinctive ring shape. The shape is inspired by a traditional European fruit cake known as Gugelhupf, but Bundt cakes are not generally associated with any single recipe, but they are often made with chocolate. "
+    },
+    {
+        "id": 38,
+        "name": "Butter cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Carrot_cake.jpg/120px-Carrot_cake.jpg",
+        "origin": "United Kingdom ",
+        "ingredients": "Butter "
+    },
+    {
+        "id": 39,
+        "name": "Butterfly cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Colin_the_caterpillar_cake.jpg/120px-Colin_the_caterpillar_cake.jpg",
+        "origin": "United Kingdom ",
+        "ingredients": "A variant of cupcake, also called \"fairy cake\" for its fairy-like \"wings\". They can be made from any flavor of cake. The top of the fairy cake is cut off or carved out with a spoon, and cut in half. Then, butter cream, whipped cream, or other sweet filling like jam is spread into the hole. Finally, the two cut halves are stuck into the butter cream to look like butterfly wings. The wings of the cake are often decorated using icing to form various patterns. "
+    },
+    {
+        "id": 40,
+        "name": "Cassata ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Charlotte_aux_poires_et_chocolat.jpg/120px-Charlotte_aux_poires_et_chocolat.jpg",
+        "origin": "Italy (Sicily) ",
+        "ingredients": "Cassata consists of round sponge cake moistened with fruit juices or liqueur and layered with ricotta cheese, candied peel, and a chocolate or vanilla filling similar to cannoli cream. It is covered with a shell of marzipan, pink and green pastel colored icing, and decorative designs. The cassata is topped with candied fruit depicting cherries and slices of citrus fruit characteristic of Sicily. "
+    },
+    {
+        "id": 41,
+        "name": "Cassava Cake[8] ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Baked_cheesecake_with_raspberries_and_blueberries.jpg/120px-Baked_cheesecake_with_raspberries_and_blueberries.jpg",
+        "origin": "Philippines ",
+        "ingredients": "A Filipino dessert make of grated yucca and egg "
+    },
+    {
+        "id": 42,
+        "name": "Carrot cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Chennapoda.jpg/120px-Chennapoda.jpg",
+        "origin": "United Kingdom ",
+        "ingredients": "Moist, dense, sweet cake made with carrots "
+    },
+    {
+        "id": 43,
+        "name": "Caterpillar cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Ard%C3%A9chois_%C3%A0_la_cr%C3%A8me_de_marron.jpg/120px-Ard%C3%A9chois_%C3%A0_la_cr%C3%A8me_de_marron.jpg",
+        "origin": "United Kingdom ",
+        "ingredients": "Chocolate Swiss roll with sugar coated chocolate beans, loved by the British population[citation needed] "
+    },
+    {
+        "id": 44,
+        "name": "Charlotte (cake) ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Chiffon_cake_02.jpg/120px-Chiffon_cake_02.jpg",
+        "origin": "France ",
+        "ingredients": "Bread, sponge cake or biscuits; fruit puree or custard "
+    },
+    {
+        "id": 45,
+        "name": "Cheesecake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Chocolate_cake_with_chocolate_frosting_topped_with_chocolate.jpg/120px-Chocolate_cake_with_chocolate_frosting_topped_with_chocolate.jpg",
+        "origin": "Ancient Greece ",
+        "ingredients": "Thin base made from crushed biscuits, with a thicker top layer of soft cheese, eggs and sugar. It can be baked or unbaked (in which case it is refrigerated.) "
+    },
+    {
+        "id": 46,
+        "name": "Chenna poda ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Christmas_cake%2C_Boxing_Day_2008.jpg/120px-Christmas_cake%2C_Boxing_Day_2008.jpg",
+        "origin": "India (Orissa) ",
+        "ingredients": "A cake made from milk solids and semolina. Milk solids are the main ingredient and is known as \"chhena\". This cake is a specialty of the state of Orissa in India chhena cardamom ghee cashewnut "
+    },
+    {
+        "id": 47,
+        "name": "Chestnut cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Vanilla_clementine_cake.jpg/120px-Vanilla_clementine_cake.jpg",
+        "origin": " ",
+        "ingredients": "Prepared using chestnuts or water chestnuts as a main ingredient. It is a dish in Chinese cuisine.[9] "
+    },
+    {
+        "id": 48,
+        "name": "Chiffon cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Coconut_cake_garnished_with_Peeps_candy.jpg/120px-Coconut_cake_garnished_with_Peeps_candy.jpg",
+        "origin": "United States ",
+        "ingredients": "Light, airy cake made with vegetable oil, eggs, sugar, flour "
+    },
+    {
+        "id": 49,
+        "name": "Chocolate cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Walnut_cinnamon_coffee_cake.jpg/120px-Walnut_cinnamon_coffee_cake.jpg",
+        "origin": "Unknown ",
+        "ingredients": "Chocolate "
+    },
+    {
+        "id": 50,
+        "name": "Christmas cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mango_float_%28Cebu_City%29.jpg/120px-Mango_float_%28Cebu_City%29.jpg",
+        "origin": "United Kingdom ",
+        "ingredients": "Dried fruit such as sultanas or raisins; cinnamon, treacle, cherries, and almond; is quite often topped with icing. If topped with icing, the icing may be decorated with decorations, such as models of Santa Claus, or may have labels such as \"Happy Christmas\". "
+    },
+    {
+        "id": 51,
+        "name": "Clementine cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Kremna_rezina.jpg/120px-Kremna_rezina.jpg",
+        "origin": " ",
+        "ingredients": "A cake prepared with clementine as a primary ingredient "
+    },
+    {
+        "id": 52,
+        "name": "Coconut cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Croquembouche_wedding_cake.jpg/120px-Croquembouche_wedding_cake.jpg",
+        "origin": "United States ",
+        "ingredients": "A popular dessert in the Southern region of the United States. It is a cake frosted with a white frosting and covered in coconut flakes. "
+    },
+    {
+        "id": 53,
+        "name": "Coffee cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Crystal_cake.jpg/120px-Crystal_cake.jpg",
+        "origin": "Germany ",
+        "ingredients": "Cinnamon "
+    },
+    {
+        "id": 54,
+        "name": "Crema de fruta ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cuatroleches.jpg/120px-Cuatroleches.jpg",
+        "origin": "Philippines ",
+        "ingredients": "A traditional Filipino fruitcake made with layers of sponge cake, sweet custard or whipped cream, gelatin or gulaman (agar), and various preserved or fresh fruits, including mangoes, pineapples, cherries, and strawberries. "
+    },
+    {
+        "id": 55,
+        "name": "Cremeschnitte ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Chocolate_cupcakes.jpg/120px-Chocolate_cupcakes.jpg",
+        "origin": "SloveniaCroatiaGermany ",
+        "ingredients": "A vanilla and custard cream cake dessert popular in several central-European countries. There are many regional variations, but they all include puff pastry base and custard cream. "
+    },
+    {
+        "id": 56,
+        "name": "Croquembouche ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Eggnog_mousse_cake_with_almond_dacquoise.jpg/120px-Eggnog_mousse_cake_with_almond_dacquoise.jpg",
+        "origin": "France ",
+        "ingredients": "Caramel, almond, and chocolate "
+    },
+    {
+        "id": 57,
+        "name": "Crystal cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Date_and_walnut_bread.jpg/120px-Date_and_walnut_bread.jpg",
+        "origin": "China ",
+        "ingredients": "One of the traditional desserts in China, it has more than 800 years of history. It was first invented in Xiagui during the Song Dynasty, then it spread far and wide. It was called \"crystal cake\" because its filling shines brightly, and its appearance is glittering and translucent, like a crystal. "
+    },
+    {
+        "id": 58,
+        "name": "Cuatro leches cake [10][11] ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Date_squares.jpg/120px-Date_squares.jpg",
+        "origin": "SpainMexico ",
+        "ingredients": "Cake made with four milks[12] and it is similar to the tres leches cake. "
+    },
+    {
+        "id": 59,
+        "name": "Cucumber cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Depression_Cake.JPG/120px-Depression_Cake.JPG",
+        "origin": " ",
+        "ingredients": "A cake prepared with cucumber as a primary ingredient. It is a dish in Goan cuisine. "
+    },
+    {
+        "id": 60,
+        "name": "Cupcake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Devil%27s_Food_Cake.jpg/120px-Devil%27s_Food_Cake.jpg",
+        "origin": "Unknown ",
+        "ingredients": "A small cake with various ingredients, usually topped with icing "
+    },
+    {
+        "id": 61,
+        "name": "Dacquoise ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Dobos_cake_%28Gerbeaud_Confectionery_Budapest_Hungary%29.jpg/120px-Dobos_cake_%28Gerbeaud_Confectionery_Budapest_Hungary%29.jpg",
+        "origin": "France ",
+        "ingredients": "Almonds, hazelnut, and chocolate "
+    },
+    {
+        "id": 62,
+        "name": "Date and walnut loaf ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/North_British_Dundee_cake.JPG/120px-North_British_Dundee_cake.JPG",
+        "origin": "United Kingdom ",
+        "ingredients": "Dates, walnuts, treacle, and tea "
+    },
+    {
+        "id": 63,
+        "name": "Date square ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tielsche_kermiskoek.jpg/120px-Tielsche_kermiskoek.jpg",
+        "origin": "Canada (probably) ",
+        "ingredients": "Also known as \"matrimonial cake\", a layer of minced dates with oat crumble "
+    },
+    {
+        "id": 64,
+        "name": "Depression cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Eccles_cake.jpg/120px-Eccles_cake.jpg",
+        "origin": "United States ",
+        "ingredients": "Made without milk, sugar, butter, or eggs "
+    },
+    {
+        "id": 65,
+        "name": "Devil's food cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dresdner_Eierschecke_9.jpg/120px-Dresdner_Eierschecke_9.jpg",
+        "origin": "United States ",
+        "ingredients": "Chocolate or cocoa, and baking soda "
+    },
+    {
+        "id": 66,
+        "name": "Dobos cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/CakeGaga8Serbia.jpg/120px-CakeGaga8Serbia.jpg",
+        "origin": "Hungary ",
+        "ingredients": "A sponge cake that is layered with chocolate butter cream and topped with thin caramel slices "
+    },
+    {
+        "id": 67,
+        "name": "Dundee cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eszterh%C3%A1zy_Torte.JPG/120px-Eszterh%C3%A1zy_Torte.JPG",
+        "origin": "United Kingdom (Scotland) ",
+        "ingredients": "Fruit cake with almonds on it but without glacé cherries "
+    },
+    {
+        "id": 68,
+        "name": "Dutch carnival cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Fat_Rascal_cookies.jpg/120px-Fat_Rascal_cookies.jpg",
+        "origin": "Netherlands ",
+        "ingredients": "A traditional a Dutch delicacy that is similar to gingerbread cake "
+    },
+    {
+        "id": 69,
+        "name": "Eccles cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Faworki_%28plate%29.jpg/120px-Faworki_%28plate%29.jpg",
+        "origin": "United Kingdom ",
+        "ingredients": "Zante currants "
+    },
+    {
+        "id": 70,
+        "name": "Eierschecke ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fig_Skillet_Cake_%2814430102033%29.jpg/120px-Fig_Skillet_Cake_%2814430102033%29.jpg",
+        "origin": "Saxony and Thuringia (Germany) ",
+        "ingredients": "A sheet cake made of yeast dough topped with apple, quark (curd) and poppy seeds and parts of it are covered with a glaze made of cream, whole egg, sugar and flour for thickening. "
+    },
+    {
+        "id": 71,
+        "name": "Erotic cake [13] ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Two_rectangular_financiers.jpg/120px-Two_rectangular_financiers.jpg",
+        "origin": "Unknown ",
+        "ingredients": "A cake made to resemble or decorated with the image of a human body (often nude or semi-nude), individual sex organs, or sexual activities, sometimes with a statement of a sexual nature written on it "
+    },
+    {
+        "id": 72,
+        "name": "Esterházy torte ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flourless_Chocolate_Cake_with_Bourbon_Vanilla_Ice_Cream.jpg/120px-Flourless_Chocolate_Cake_with_Bourbon_Vanilla_Ice_Cream.jpg",
+        "origin": "HungaryAustria ",
+        "ingredients": "A Hungarian cake (torta) named after Prince Paul III Anton Esterházy de Galántha (1786–1866). It was invented by Budapest confectioners in the late 19th century. It consists of cognac or vanilla buttercream, sandwiched between layers of almond meringue (macaroon) dough. The torte is iced with a fondant glaze and decorated with a characteristic chocolate striped pattern. "
+    },
+    {
+        "id": 73,
+        "name": "Fat rascal ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/White_Mr_Kipling_French_fancy_cake_%2882524785%29.jpg/120px-White_Mr_Kipling_French_fancy_cake_%2882524785%29.jpg",
+        "origin": "United Kingdom ",
+        "ingredients": "Dried fruit, peel, oats "
+    },
+    {
+        "id": 74,
+        "name": "Faworki ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Konditor_kager_1.JPG/120px-Konditor_kager_1.JPG",
+        "origin": "Poland ",
+        "ingredients": "Sweet crisp cake in shape of a bow "
+    },
+    {
+        "id": 75,
+        "name": "Fig cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Frankfurter_Kranz.JPG/117px-Frankfurter_Kranz.JPG",
+        "origin": "Egypt ",
+        "ingredients": "Prepared with fig as a primary ingredient "
+    },
+    {
+        "id": 76,
+        "name": "Financier ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Frog_cakes.jpg/120px-Frog_cakes.jpg",
+        "origin": "France ",
+        "ingredients": "A small cake, the financier is light and moist, similar to sponge cake, and usually contains almond flour, crushed or ground almonds, or almond flavoring. The distinctive feature of the recipe is beurre noisette (brown butter). Other ingredients include egg whites, flour, and powdered sugar. They are baked in shaped molds, usually small rectangular loaves similar in size to petits fours. In terms of texture, it is springy with a crisp, eggshell-like exterior. "
+    },
+    {
+        "id": 77,
+        "name": "Flourless chocolate cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Traditional_fruitcake.jpg/120px-Traditional_fruitcake.jpg",
+        "origin": "Unknown ",
+        "ingredients": "Chocolate "
+    },
+    {
+        "id": 78,
+        "name": "Fondant Fancy ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Oregon_State_Fair_funnel_cake.jpg/120px-Oregon_State_Fair_funnel_cake.jpg",
+        "origin": "United Kingdom ",
+        "ingredients": "Icing (in any of a number of colors), cream "
+    },
+    {
+        "id": 79,
+        "name": "Fragelité [14] ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Garash.jpg/120px-Garash.jpg",
+        "origin": "Denmark [14] ",
+        "ingredients": "Meringue, almonds, butter, coffee "
+    },
+    {
+        "id": 80,
+        "name": "Frankfurter Kranz (Frankfurt Crown Cake) ",
+        "image": "http://upload.wikimedia.org/wikipedia/en/thumb/7/79/Genoa-cake.jpg/120px-Genoa-cake.jpg",
+        "origin": "Germany ",
+        "ingredients": "Sponge cake, buttercream icing, red jam (typically strawberry, blackcurrant or cherry jam); brittle nuts, toasted almondflakes and/or ground hazelnuts "
+    },
+    {
+        "id": 81,
+        "name": "Frog cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/G%C3%A9noise_cake_with_buttercream_frosting.jpg/120px-G%C3%A9noise_cake_with_buttercream_frosting.jpg",
+        "origin": "Australia ",
+        "ingredients": "Cream, icing "
+    },
+    {
+        "id": 82,
+        "name": "Fruitcake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/GermanChocolateCake.jpg/120px-GermanChocolateCake.jpg",
+        "origin": "Ancient Rome ",
+        "ingredients": "Candied fruit; many versions of the fruit cake contain currants, sultanas, and glacé cherries "
+    },
+    {
+        "id": 83,
+        "name": "Funing big cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cakegingerbread.jpg/120px-Cakegingerbread.jpg",
+        "origin": "China (Funing County, Jiangsu province) ",
+        "ingredients": "Sticky rice, white sugar, and refined lard. Due to health concerns associated with lard consumption, sometimes vegetable oil is used instead of lard.[15] "
+    },
+    {
+        "id": 84,
+        "name": "Funnel cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Gooey_Pumpkin_Butter_Cake.jpg/120px-Gooey_Pumpkin_Butter_Cake.jpg",
+        "origin": "United States ",
+        "ingredients": "Choux pastry with powdered sugar or other toppings, usually fruit "
+    },
+    {
+        "id": 85,
+        "name": "Gâteau nantais ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flickr_-_cyclonebill_-_G%C3%A5sebryst.jpg/120px-Flickr_-_cyclonebill_-_G%C3%A5sebryst.jpg",
+        "origin": "Nantes ",
+        "ingredients": "Pound cake with almonds and rum. "
+    },
+    {
+        "id": 86,
+        "name": "Garash cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/GhevarRajasthaniSweet.jpg/120px-GhevarRajasthaniSweet.jpg",
+        "origin": "Bulgaria ",
+        "ingredients": "Walnuts, egg whites, crystal or powdered sugar "
+    },
+    {
+        "id": 87,
+        "name": "Genoa cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Halloween_pumpkin_cake_2015.JPG/120px-Halloween_pumpkin_cake_2015.JPG",
+        "origin": "Italy (Genoa, probably) ",
+        "ingredients": "Sultanas, raisins, glacé cherries "
+    },
+    {
+        "id": 88,
+        "name": "Genoise (Genoese cake) ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Kalter_hund.jpg/120px-Kalter_hund.jpg",
+        "origin": "Italy (Genoa, probably) ",
+        "ingredients": "Whole egg "
+    },
+    {
+        "id": 89,
+        "name": "German Chocolate Cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Welsh_hewa_cakes.jpg/120px-Welsh_hewa_cakes.jpg",
+        "origin": "United States ",
+        "ingredients": "Chocolate cake with coconut-pecan frosting "
+    },
+    {
+        "id": 90,
+        "name": "Gingerbread ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Hummingbird_cake_-_homemade.jpg/120px-Hummingbird_cake_-_homemade.jpg",
+        "origin": "United Kingdom (probably) ",
+        "ingredients": "Ginger "
+    },
+    {
+        "id": 91,
+        "name": "Gooey butter cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Culinique_Ice_Cream_Cake.jpg/120px-Culinique_Ice_Cream_Cake.jpg",
+        "origin": "United States ",
+        "ingredients": "Butter "
+    },
+    {
+        "id": 92,
+        "name": "Goose breast (Gåsebryst) [16] ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Jaffa_cake.jpg/120px-Jaffa_cake.jpg",
+        "origin": "Denmark [16] ",
+        "ingredients": "A cream cake known as Gåsebryst in Denmark.[16] A Danish pastry bottom, topped with whipped cream, custard and jam, wrapped in marzipan. "
+    },
+    {
+        "id": 93,
+        "name": "Ghevar ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/A_part_of_Joffre.JPG/120px-A_part_of_Joffre.JPG",
+        "origin": "India ",
+        "ingredients": "Flour, ghee, kewra, milk, clarified butter, sugar, almonds, pistachio, saffron, green cardamom etc. "
+    },
+    {
+        "id": 94,
+        "name": "Halloween cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Karpatka.jpg/120px-Karpatka.jpg",
+        "origin": " ",
+        "ingredients": "A cake prepared with Halloween-themed decorations "
+    },
+    {
+        "id": 95,
+        "name": "Hash brownies ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%82%D0%BE%D1%80%D1%82_%D0%B1%D0%B5%D0%B7_%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B8.JPG/120px-%D0%9A%D0%B8%D1%97%D0%B2%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D1%82%D0%BE%D1%80%D1%82_%D0%B1%D0%B5%D0%B7_%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B8.JPG",
+        "origin": "NetherlandsBelgium ",
+        "ingredients": "Also known as \"space cakes\", these are bakery products made using one of the forms of cannabis, including hashish. "
+    },
+    {
+        "id": 96,
+        "name": "Hedgehog Slice ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Kingcake.jpg/120px-Kingcake.jpg",
+        "origin": " ",
+        "ingredients": "It contains crushed biscuit, or rice puffs. It has totally different names in each language. "
+    },
+    {
+        "id": 97,
+        "name": "Hevva cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Kudi_Chin_snack_%28002%29.jpg/120px-Kudi_Chin_snack_%28002%29.jpg",
+        "origin": "Cornwall, England ",
+        "ingredients": "It's also called heavy cake "
+    },
+    {
+        "id": 98,
+        "name": "Hot milk cake [17] ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Kaffereptarta.jpg/120px-Kaffereptarta.jpg",
+        "origin": "United States (probably) ",
+        "ingredients": "Milk, and mocha "
+    },
+    {
+        "id": 99,
+        "name": "Hummingbird cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kolacz_%28cake%29.JPG/120px-Kolacz_%28cake%29.JPG",
+        "origin": "Jamaica ",
+        "ingredients": "Banana, pineapple, pecan, vanilla, spice "
+    },
+    {
+        "id": 100,
+        "name": "Ice cream cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kolaczki_-_A_Polish_Pastry_Type_Of_Cake.jpg/120px-Kolaczki_-_A_Polish_Pastry_Type_Of_Cake.jpg",
+        "origin": "Unknown ",
+        "ingredients": "Ice cream "
+    },
+    {
+        "id": 101,
+        "name": "Jaffa Cakes ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kouignamann.JPG/120px-Kouignamann.JPG",
+        "origin": "United Kingdom ",
+        "ingredients": "A biscuit-sized cake introduced by MacVitie and Price in 1927, and named after Jaffa oranges. The most common forms of Jaffa Cakes are circular, 2.5 inches (64 mm) in diameter and have three layers: a Genoise sponge base, a layer of orange flavored jelly, and a coating of chocolate. "
+    },
+    {
+        "id": 102,
+        "name": "Joffre cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Kransekake.jpg/120px-Kransekake.jpg",
+        "origin": "Romania ",
+        "ingredients": "Chocolate ganache cake "
+    },
+    {
+        "id": 103,
+        "name": "Kabuni ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kranz_cake2.jpg/120px-Kranz_cake2.jpg",
+        "origin": "Albania [18] ",
+        "ingredients": "Rice, butter, mutton broth, raisins, sugar, cinnamon, cloves "
+    },
+    {
+        "id": 104,
+        "name": "Karpatka ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Kremowki_dwie.JPG/120px-Kremowki_dwie.JPG",
+        "origin": "Poland ",
+        "ingredients": "Two to eight layers of very flattened sweet bake pastry with cream and sweet cheese, normally served with fruit and budyn and cardamom and ice cream which may have alcohol also on the side of this luxurious dessert "
+    },
+    {
+        "id": 105,
+        "name": "Kiev cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Boza_krowka.jpg/120px-Boza_krowka.jpg",
+        "origin": "Ukraine ",
+        "ingredients": "Two airy layers of meringue with hazelnuts, chocolate glaze, and a buttercream-like filling "
+    },
+    {
+        "id": 106,
+        "name": "King cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kue_cubit.jpg/120px-Kue_cubit.jpg",
+        "origin": "FranceSpain ",
+        "ingredients": "Sugar, cinnamon, milk, and butter "
+    },
+    {
+        "id": 107,
+        "name": "Khanom bodin ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Koljivo_from_wheat.jpg/120px-Koljivo_from_wheat.jpg",
+        "origin": "Thailand ",
+        "ingredients": "Wheat flour (or Maida flour), fresh butter, fresh milk, chicken eggs, sweetened condensed milk, white sugar, raisins, dried sweet gourds "
+    },
+    {
+        "id": 108,
+        "name": "Khanom farang kudi chin ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lamington.png/120px-Lamington.png",
+        "origin": "Thailand ",
+        "ingredients": "Duck egg, wheat flour, white sugar, raisins, dried sweet gourds "
+    },
+    {
+        "id": 109,
+        "name": "Kladdkaka ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Meyer_lemon_chiffon_cake%2C_chocolate.jpg/120px-Meyer_lemon_chiffon_cake%2C_chocolate.jpg",
+        "origin": "Sweden ",
+        "ingredients": "Chocolate "
+    },
+    {
+        "id": 110,
+        "name": "Kliņģeris [19] ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Lemon_and_polenta_cake.jpg/120px-Lemon_and_polenta_cake.jpg",
+        "origin": "Latvia [19] ",
+        "ingredients": "Yeast, raisins, spices "
+    },
+    {
+        "id": 111,
+        "name": "Kołacz ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cherry_madeira_cake.jpg/120px-Cherry_madeira_cake.jpg",
+        "origin": "Poland ",
+        "ingredients": "Sweet cheese and cream "
+    },
+    {
+        "id": 112,
+        "name": "Kolaczki ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/14/MakowiecCakb.jpg/120px-MakowiecCakb.jpg",
+        "origin": "Poland ",
+        "ingredients": "Butter, sugar, jam, egg whites, different sweet sugar powder "
+    },
+    {
+        "id": 113,
+        "name": "Kouign-amann ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Madalenas_caseras-Madrid.jpg/120px-Madalenas_caseras-Madrid.jpg",
+        "origin": "France (Brittany) ",
+        "ingredients": "Butter "
+    },
+    {
+        "id": 114,
+        "name": "Kransekake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mantecadas_de_Tuesta-Valdegov%C3%ADa8.JPG/120px-Mantecadas_de_Tuesta-Valdegov%C3%ADa8.JPG",
+        "origin": "DenmarkNorway ",
+        "ingredients": "Almonds, sugar, egg whites "
+    },
+    {
+        "id": 115,
+        "name": "Krantz cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Marmorkuchen.jpg/120px-Marmorkuchen.jpg",
+        "origin": "Israel [20][21] (ashkenazi food) ",
+        "ingredients": "Chocolate or poppy seeds filling. "
+    },
+    {
+        "id": 116,
+        "name": "Kremówka ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Mazurek_1.JPG/120px-Mazurek_1.JPG",
+        "origin": "Germany, Slovakia ",
+        "ingredients": "A Polish type of cream pie. It is made of two layers of puff pastry, filled with whipped cream, creamy buttercream, vanilla pastry cream (custard cream) or sometimes egg white cream, and is usually sprinkled with powdered sugar. It also can be decorated with cream or covered with a layer of icing. "
+    },
+    {
+        "id": 117,
+        "name": "Krówka ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Medovik.jpg/120px-Medovik.jpg",
+        "origin": "Poland ",
+        "ingredients": "Chocolate, sponge base, caramel and coconut "
+    },
+    {
+        "id": 118,
+        "name": "Kue cubit ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Merveilleux.jpg/120px-Merveilleux.jpg",
+        "origin": "Indonesia ",
+        "ingredients": "A small cake eaten as a snack. "
+    },
+    {
+        "id": 119,
+        "name": "Kutia ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Mille-feuille_fran%C3%A7ais_1.jpg/120px-Mille-feuille_fran%C3%A7ais_1.jpg",
+        "origin": "PolandBelarusUkraineLithuaniaRussia ",
+        "ingredients": "Various nuts and raisins "
+    },
+    {
+        "id": 120,
+        "name": "Lady Baltimore cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Chocolate_Fondant.jpg/120px-Chocolate_Fondant.jpg",
+        "origin": "Southern United States (its exact origins are disputed) ",
+        "ingredients": "Dried fruit, nuts, frosting "
+    },
+    {
+        "id": 121,
+        "name": "Lamington ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mooncake1.jpg/120px-Mooncake1.jpg",
+        "origin": "Australia ",
+        "ingredients": "Chocolate icing, and desiccated coconut "
+    },
+    {
+        "id": 122,
+        "name": "Lane cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Sugar_Cake.jpg/120px-Sugar_Cake.jpg",
+        "origin": "Southeastern USA ",
+        "ingredients": "Candied fruit, sponge cake, pecans, coconut, bourbon, vanilla buttercream "
+    },
+    {
+        "id": 123,
+        "name": "Layer cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Muffins_in_oven.jpg/120px-Muffins_in_oven.jpg",
+        "origin": "Unknown ",
+        "ingredients": "Egg yolk, sugar, butter, flour "
+    },
+    {
+        "id": 124,
+        "name": "Lemon cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Napoleonshat.jpg/120px-Napoleonshat.jpg",
+        "origin": "Unknown ",
+        "ingredients": "Cake with a lemon flavor[22][23] "
+    },
+    {
+        "id": 125,
+        "name": "Madeira cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sugar_onion_cake_2.JPG/120px-Sugar_onion_cake_2.JPG",
+        "origin": "United Kingdom ",
+        "ingredients": "Butter and sugar, usually flavored with lemon. Sometimes confused with Bolo de mel cakes, which are actually made in Madeira using a completely different recipe. "
+    },
+    {
+        "id": 126,
+        "name": "Makowiec ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Tisto.jpg/120px-Tisto.jpg",
+        "origin": "Poland ",
+        "ingredients": "Poppy seed cake, normally decorated with icing and orange "
+    },
+    {
+        "id": 127,
+        "name": "Magdalena ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Tartine_bakery_opera_cake_in_2007.jpg/120px-Tartine_bakery_opera_cake_in_2007.jpg",
+        "origin": "Spain ",
+        "ingredients": "Eggs, granulated sugar, vegetable oil (usually olive oil), unbleached white flour, lemon zest, baking powder and milk. Spanish version of muffins or cupcakes (but always without topping). "
+    },
+    {
+        "id": 128,
+        "name": "Mantecada ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flourless_orange_and_polenta_cake.jpg/120px-Flourless_orange_and_polenta_cake.jpg",
+        "origin": "Spain ",
+        "ingredients": "Eggs, flour, sugar and butter (cow fat in the Mantecadas de Astorga; corn flour in Colombia) "
+    },
+    {
+        "id": 129,
+        "name": "Marble cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sm%C3%A5lands_b%C3%A4sta_ostkaka.jpg/120px-Sm%C3%A5lands_b%C3%A4sta_ostkaka.jpg",
+        "origin": "Denmark ",
+        "ingredients": "Vanilla, coffee, or chocolate "
+    },
+    {
+        "id": 130,
+        "name": "Marjolaine ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Othello-lagkager.jpg/120px-Othello-lagkager.jpg",
+        "origin": "France ",
+        "ingredients": "Meringue, praline, and chocolate. Created by Fernand Point "
+    },
+    {
+        "id": 131,
+        "name": "Mazurek ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Blueberry_pancakes_%281%29.jpg/120px-Blueberry_pancakes_%281%29.jpg",
+        "origin": "Poland ",
+        "ingredients": "Easter cake with a type of shortcrust tart and topping "
+    },
+    {
+        "id": 132,
+        "name": "Medovik ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Panpepato-small.jpg/120px-Panpepato-small.jpg",
+        "origin": "Russia ",
+        "ingredients": "A layer cake popular in Russia and other countries of the former Soviet Union "
+    },
+    {
+        "id": 133,
+        "name": "Merveilleux ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Panettone_-_Nicolettone_2017_-_IMG_7085_%2831752542285%29.jpg/120px-Panettone_-_Nicolettone_2017_-_IMG_7085_%2831752542285%29.jpg",
+        "origin": "Belgium ",
+        "ingredients": "Two light meringues welded and covered with whipped cream and dusted with chocolate shavings. "
+    },
+    {
+        "id": 134,
+        "name": "Mille-feuille ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Paris-Brest_IMG_0875.JPG/120px-Paris-Brest_IMG_0875.JPG",
+        "origin": "France ",
+        "ingredients": "Also known as a Napoleon, is three layers of puff pastry alternating with two layers of pastry cream. The top is glazed in white (icing) and brown (chocolate) strips, and combed into a distinctive pattern. "
+    },
+    {
+        "id": 135,
+        "name": "Misérable cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Darkparkin.JPG/120px-Darkparkin.JPG",
+        "origin": "Belgium ",
+        "ingredients": "A type of almond sponge cake that is a traditional Belgian recipe "
+    },
+    {
+        "id": 136,
+        "name": "Molten chocolate cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Christmas_pavlova.jpg/120px-Christmas_pavlova.jpg",
+        "origin": "France/United States ",
+        "ingredients": "Also known as lava cake is a popular dessert that combines the elements of a flourless chocolate cake (sometimes called a \"chocolate decadence\" cake) and a soufflé. Some other names used are \"chocolate fondant\", \"chocolate moelleux\", and \"chocolate lava\" cake. "
+    },
+    {
+        "id": 137,
+        "name": "Mooncake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Coulant_10000000041662_000639_%2815823743875%29.jpg/120px-Coulant_10000000041662_000639_%2815823743875%29.jpg",
+        "origin": "China ",
+        "ingredients": "A Chinese bakery product traditionally eaten during the Mid-Autumn Festival (Zhongqiujie) "
+    },
+    {
+        "id": 138,
+        "name": "Moravian sugar cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Petits.fours.wmt.jpg/120px-Petits.fours.wmt.jpg",
+        "origin": "Pennsylvania German Country /United States ",
+        "ingredients": "A sweet coffee cake that originated in the colonial Moravian Church. It is made with a sweet yeast dough enriched with mashed potatoes and topped with a mixture of melted butter, brown sugar, and cinnamon. "
+    },
+    {
+        "id": 139,
+        "name": "Muffin ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/PiernikCakeb.jpg/120px-PiernikCakeb.jpg",
+        "origin": "Unknown ",
+        "ingredients": "An individual-sized quick bread product which can be sweet or savory. The typical American \"muffin\" is similar to a cupcake in size and cooking methods. These can come in both savory varieties, such as corn or cheese muffins, or sweet varieties such as blueberry or banana. It also refers to a flatter disk-shaped bread of English origin, commonly referred to as an \"English muffin\" outside the United Kingdom. These muffins are also popular in Commonwealth countries and the United States. "
+    },
+    {
+        "id": 140,
+        "name": "Napoleonshat [24] ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Plum_cake_08_ies.jpg/120px-Plum_cake_08_ies.jpg",
+        "origin": "Denmark ",
+        "ingredients": "A marzipan based cake, shaped like a Napoleon's Hat and dipped in dark chocolate[24] "
+    },
+    {
+        "id": 141,
+        "name": "Napeleonskake [25][self-published source] ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Pound_layer_cake.jpg/120px-Pound_layer_cake.jpg",
+        "origin": "NorwayDenmarkIceland ",
+        "ingredients": "A cake that is similar to tompouce, but it has different flavors like caramel or carob "
+    },
+    {
+        "id": 142,
+        "name": "Onion cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Prinsesst%C3%A5rta.JPG/120px-Prinsesst%C3%A5rta.JPG",
+        "origin": " ",
+        "ingredients": "A savory or sweet cake prepared with onion as a primary ingredient[26] "
+    },
+    {
+        "id": 143,
+        "name": "Oponki or Pączki ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Prinzregententorte.jpg/120px-Prinzregententorte.jpg",
+        "origin": "Poland ",
+        "ingredients": "Round spongy yeast cake with sweet topping and other chocolate "
+    },
+    {
+        "id": 144,
+        "name": "Opera cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Pumpkin_bread.jpg/120px-Pumpkin_bread.jpg",
+        "origin": "France ",
+        "ingredients": "Ganache, sponge cake, and coffee syrup "
+    },
+    {
+        "id": 145,
+        "name": "Orange and polenta cake [27] ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Image-Punschkrapfen.jpg/120px-Image-Punschkrapfen.jpg",
+        "origin": "Italy ",
+        "ingredients": "Oranges and polenta "
+    },
+    {
+        "id": 146,
+        "name": "Ostkaka ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Puto_in_banana_leaf.jpg/120px-Puto_in_banana_leaf.jpg",
+        "origin": "Sweden ",
+        "ingredients": "Also called Swedish cheesecake "
+    },
+    {
+        "id": 147,
+        "name": "Othellolagkage [28] ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Queen_cakes_cooling_on_a_wire_rack_%2813475333725%29.jpg/120px-Queen_cakes_cooling_on_a_wire_rack_%2813475333725%29.jpg",
+        "origin": "Denmark [28] ",
+        "ingredients": "A layer cake with sponge cake, cream, chocolate, raspberry, egg, vanilla, marzipan, "
+    },
+    {
+        "id": 148,
+        "name": "Pan di Spagna [29] ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Teekuchen%2C_Miltenberg%2C_Germany.JPG/120px-Teekuchen%2C_Miltenberg%2C_Germany.JPG",
+        "origin": "Italy [29] ",
+        "ingredients": "A sponge cake. Italian Jewish families make a traditional version for a Passover.[30] "
+    },
+    {
+        "id": 149,
+        "name": "Pancake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/RedbeanCake_Cantoversion.jpg/120px-RedbeanCake_Cantoversion.jpg",
+        "origin": " ",
+        "ingredients": "Flat, round cake, made with eggs, milk, and plain flour "
+    },
+    {
+        "id": 150,
+        "name": "Panpepato ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Red_velvet_cake_slice.jpg/120px-Red_velvet_cake_slice.jpg",
+        "origin": "Italy ",
+        "ingredients": "Various nuts: almonds, hazelnuts, pine nuts "
+    },
+    {
+        "id": 151,
+        "name": "Panettone ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Golden-Krust-Rock-Cake.jpg/120px-Golden-Krust-Rock-Cake.jpg",
+        "origin": "Italy ",
+        "ingredients": "Raisins, orange peel, and lemon peel "
+    },
+    {
+        "id": 152,
+        "name": "Paris–Brest ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Rum_cake.jpg/120px-Rum_cake.jpg",
+        "origin": "France ",
+        "ingredients": "Choux pastry and praline flavoured cream "
+    },
+    {
+        "id": 153,
+        "name": "Parkin ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/BabaRum.jpg/120px-BabaRum.jpg",
+        "origin": "United Kingdom ",
+        "ingredients": "Treacle and oats "
+    },
+    {
+        "id": 154,
+        "name": "Pavlova ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/RuskeKapa.jpg/120px-RuskeKapa.jpg",
+        "origin": "AustraliaNew Zealand ",
+        "ingredients": "Egg white and sugar (meringue); named after Anna Pavlova "
+    },
+    {
+        "id": 155,
+        "name": "Petit Gâteau ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sachertorte_DSC03027_retouched.jpg/120px-Sachertorte_DSC03027_retouched.jpg",
+        "origin": "France ",
+        "ingredients": "Chocolate and served with ice cream "
+    },
+    {
+        "id": 156,
+        "name": "Petits fours ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/%C5%A0akotis_3799.jpg/120px-%C5%A0akotis_3799.jpg",
+        "origin": "France ",
+        "ingredients": "Butter cream "
+    },
+    {
+        "id": 157,
+        "name": "Piernik [31] ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Salzburger_Nockerln_04_gastronomie_001.jpg/120px-Salzburger_Nockerln_04_gastronomie_001.jpg",
+        "origin": "Poland [31] ",
+        "ingredients": "Gingerbread with cinnamon, ginger, cloves and cardamom "
+    },
+    {
+        "id": 158,
+        "name": "Pineapple Cheesecake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Tarta_de_Santiago-2009.jpg/120px-Tarta_de_Santiago-2009.jpg",
+        "origin": " ",
+        "ingredients": "A no bake cheesecake with pineapple either as main filling or as topping. "
+    },
+    {
+        "id": 159,
+        "name": "Plum cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Sekacz_%281%29.jpg/120px-Sekacz_%281%29.jpg",
+        "origin": "United Kingdom (England) ",
+        "ingredients": "Referred to fruitcake prepared with dried plum and spices in England since around 1700. Today it refers to a cake prepared with dried fruits such as raisins as the primary ingredients. "
+    },
+    {
+        "id": 160,
+        "name": "Pound cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PolskiSernik.jpg/120px-PolskiSernik.jpg",
+        "origin": "United Kingdom ",
+        "ingredients": "Butter, sugar, eggs, flour "
+    },
+    {
+        "id": 161,
+        "name": "Princess cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sesame_seed_cakes.jpg/120px-Sesame_seed_cakes.jpg",
+        "origin": "Sweden ",
+        "ingredients": "Alternating layers of sponge cake and whipped cream, a layer of berry jam and a layer of custard, all topped with a layer of (green) marzipan. "
+    },
+    {
+        "id": 162,
+        "name": "Prinzregententorte ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sfoufs_%288280943024%29_%28cropped%29.jpg/120px-Sfoufs_%288280943024%29_%28cropped%29.jpg",
+        "origin": "Germany ",
+        "ingredients": "Sponge cake, buttercream, and dark chocolate glaze "
+    },
+    {
+        "id": 163,
+        "name": "Pumpkin bread ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Sheet_cake.jpg/120px-Sheet_cake.jpg",
+        "origin": "United States ",
+        "ingredients": "Pumpkin, sometimes chocolate "
+    },
+    {
+        "id": 164,
+        "name": "Punschkrapfen ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Simnel_cake_1.jpg/120px-Simnel_cake_1.jpg",
+        "origin": "Austria ",
+        "ingredients": "Cake crumbs, nougat chocolate, apricot jam, and rum "
+    },
+    {
+        "id": 165,
+        "name": "Puto ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Smith_island_cake2009.jpg/120px-Smith_island_cake2009.jpg",
+        "origin": "Philippines ",
+        "ingredients": " "
+    },
+    {
+        "id": 166,
+        "name": "Queen cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Smorgatarta.JPG/120px-Smorgatarta.JPG",
+        "origin": "United Kingdom ",
+        "ingredients": "A soft, muffin-sized cake, popular from early 18th century, and containing currants and flavored with mace and orange, or lemon water. "
+    },
+    {
+        "id": 167,
+        "name": "Queen Elizabeth cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hostess-Sno-Ball-WS.jpg/120px-Hostess-Sno-Ball-WS.jpg",
+        "origin": "Canada ",
+        "ingredients": "Coconut, dates "
+    },
+    {
+        "id": 168,
+        "name": "Raisin cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/SnowSkinMooncake1.JPG/120px-SnowSkinMooncake1.JPG",
+        "origin": " ",
+        "ingredients": "Cake prepared with raisins as a primary ingredient "
+    },
+    {
+        "id": 169,
+        "name": "Red bean cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Choco_souffle.jpg/120px-Choco_souffle.jpg",
+        "origin": "JapanChina ",
+        "ingredients": "Azuki bean and red bean paste "
+    },
+    {
+        "id": 170,
+        "name": "Red velvet cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Spekkoek_naturel_en_pandan.jpg/120px-Spekkoek_naturel_en_pandan.jpg",
+        "origin": "United States ",
+        "ingredients": "Red coloring and cocoa "
+    },
+    {
+        "id": 171,
+        "name": "Rock cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Spice_Cake_with_sea_foam_frosting.jpg/120px-Spice_Cake_with_sea_foam_frosting.jpg",
+        "origin": "United Kingdom ",
+        "ingredients": "Currants, candied peel, mixed spice "
+    },
+    {
+        "id": 172,
+        "name": "Rum cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/K%C3%BCrt%C5%91skal%C3%A1cs_Budapest_2008.jpg/120px-K%C3%BCrt%C5%91skal%C3%A1cs_Budapest_2008.jpg",
+        "origin": "Jamaica, Trinidad and Tobago ",
+        "ingredients": "Rum, dried fruit "
+    },
+    {
+        "id": 173,
+        "name": "Rum baba ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Sponge_cake.jpg/120px-Sponge_cake.jpg",
+        "origin": "France, Italy ",
+        "ingredients": "Rum, yeast, whipped cream "
+    },
+    {
+        "id": 174,
+        "name": "Ruske kape ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Saint-honor%C3%A9_%28p%C3%A2tisserie%29.JPG/120px-Saint-honor%C3%A9_%28p%C3%A2tisserie%29.JPG",
+        "origin": "BosniaSerbia ",
+        "ingredients": "Chocolate and coconut "
+    },
+    {
+        "id": 175,
+        "name": "Sachertorte ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Apple_Stack_Cake.jpg/120px-Apple_Stack_Cake.jpg",
+        "origin": "Austria ",
+        "ingredients": "Apricot and cream "
+    },
+    {
+        "id": 176,
+        "name": "Šakotis ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/H%C3%A4ssleholm_-_Strawberry_Cake.jpg/120px-H%C3%A4ssleholm_-_Strawberry_Cake.jpg",
+        "origin": "LithuaniaPoland ",
+        "ingredients": "Traditional cake created by painting layers of dough onto a rotating spit while being baked "
+    },
+    {
+        "id": 177,
+        "name": "Salzburger Nockerl ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Streuselkuchen7.jpg/120px-Streuselkuchen7.jpg",
+        "origin": "Austria ",
+        "ingredients": "Egg yolk, flour and milk "
+    },
+    {
+        "id": 178,
+        "name": "Sans rival ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Taichung_Sun_Cake.JPG/120px-Taichung_Sun_Cake.JPG",
+        "origin": "Philippines ",
+        "ingredients": "layers of buttercream, meringue and chopped cashews "
+    },
+    {
+        "id": 179,
+        "name": "Santiago cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Swiss_roll.jpg/120px-Swiss_roll.jpg",
+        "origin": "Spain (Galicia) ",
+        "ingredients": "Topping with a Santiago Cross design "
+    },
+    {
+        "id": 180,
+        "name": "Sekacz ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Tarte_tatin.jpg/120px-Tarte_tatin.jpg",
+        "origin": "Poland ",
+        "ingredients": "Sponge cake with chocolate "
+    },
+    {
+        "id": 181,
+        "name": "Sernik ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/027_of_366_%286783085325%29.jpg/120px-027_of_366_%286783085325%29.jpg",
+        "origin": "Poland ",
+        "ingredients": "Cream cheese, sponge cake, raisins and different spices "
+    },
+    {
+        "id": 182,
+        "name": "Sesame seed cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Teacake.jpg/120px-Teacake.jpg",
+        "origin": "Unknown ",
+        "ingredients": "Sesame seeds, often with honey as a sweetener "
+    },
+    {
+        "id": 183,
+        "name": "Sfouf ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Three_chocolate_cake.jpg/120px-Three_chocolate_cake.jpg",
+        "origin": "Lebanon ",
+        "ingredients": "Almonds and semolina "
+    },
+    {
+        "id": 184,
+        "name": "Sheet cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tiramisu_Fanes.jpg/120px-Tiramisu_Fanes.jpg",
+        "origin": " ",
+        "ingredients": "A cake baked in a large, flat rectangular pan such as a sheet pan or a jelly roll pan "
+    },
+    {
+        "id": 185,
+        "name": "Simnel cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Tom_Pouce_Dutch_pastry.JPG/120px-Tom_Pouce_Dutch_pastry.JPG",
+        "origin": "United Kingdom ",
+        "ingredients": "Marzipan and dried fruit "
+    },
+    {
+        "id": 186,
+        "name": "Smith Island Cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Torta_alla_Monferrina.jpg/120px-Torta_alla_Monferrina.jpg",
+        "origin": "United States ",
+        "ingredients": "condensed milk, vanilla chocolate creme, dark chocolate icing "
+    },
+    {
+        "id": 187,
+        "name": "Smörgåstårta ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tres_Leches.jpg/120px-Tres_Leches.jpg",
+        "origin": "SwedenEstoniaFinland ",
+        "ingredients": "A cake that literally means \"sandwich-cake\" or \"sandwich gateau\", it is a Scandinavian cuisine dish that is popular in Sweden, Estonia (as võileivatort), and Finland (as voileipäkakku). This savory cake has ingredients similar to a sandwich, but has such a large amount of filling that it more resembles a layered cream cake with garnished top. "
+    },
+    {
+        "id": 188,
+        "name": "Snowball cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tr%C3%A6stammer_3.jpg/120px-Tr%C3%A6stammer_3.jpg",
+        "origin": "United States ",
+        "ingredients": "Marshmallow and coconut frosting "
+    },
+    {
+        "id": 189,
+        "name": "Snow skin mooncake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Mongolian_Cuisine_at_World_Heritage_Cuisine_Summit_%26_Food_Festival_2018_%2815%29.jpg/120px-Mongolian_Cuisine_at_World_Heritage_Cuisine_Summit_%26_Food_Festival_2018_%2815%29.jpg",
+        "origin": "Hong Kong ",
+        "ingredients": "A Chinese food eaten during the Mid-Autumn Festival. It is a non-baked mooncake which originated in Hong Kong. The snow skin mooncake was developed by a bakery in Hong Kong, because the traditional mooncakes were made with salted duck egg yolks and lotus seed paste, resulting in very high sugar and oil content. It is also known as \"snowy mooncake\", \"icy mooncake\", and \"crystal mooncake\". "
+    },
+    {
+        "id": 190,
+        "name": "Soufflé ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ube_Cake.jpg/120px-Ube_Cake.jpg",
+        "origin": "France ",
+        "ingredients": "Cream sauce or purée with beaten egg whites "
+    },
+    {
+        "id": 191,
+        "name": "Spekkoek ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Pineapple-upside-down-cake.jpg/120px-Pineapple-upside-down-cake.jpg",
+        "origin": "Dutch East Indies(now Indonesia) ",
+        "ingredients": "Multi-layered, containing cinnamon, clove, mace, and anise "
+    },
+    {
+        "id": 192,
+        "name": "Spice cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cake_from_WHR%28P%29.jpg/120px-Cake_from_WHR%28P%29.jpg",
+        "origin": "North America ",
+        "ingredients": "Spices such as cinnamon, cloves, allspice, ginger, or mace "
+    },
+    {
+        "id": 193,
+        "name": "Spit cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/V%C3%ADnarterta.JPG/120px-V%C3%ADnarterta.JPG",
+        "origin": "Ancient Greece ",
+        "ingredients": "A term for hollow, cylindrical cakes prepared on a rotating spit in several European countries "
+    },
+    {
+        "id": 194,
+        "name": "Sponge cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/en/thumb/4/47/Whitweddingcake.jpg/120px-Whitweddingcake.jpg",
+        "origin": "United Kingdom ",
+        "ingredients": "Flour, sugar, and eggs "
+    },
+    {
+        "id": 195,
+        "name": "St. Honoré cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Welsh_cakes2.jpg/120px-Welsh_cakes2.jpg",
+        "origin": "France ",
+        "ingredients": "Caramel and Chiboust cream "
+    },
+    {
+        "id": 196,
+        "name": "Stack cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Whoopiepies1.jpg/120px-Whoopiepies1.jpg",
+        "origin": "United States ",
+        "ingredients": "A cake that replaces a wedding cake "
+    },
+    {
+        "id": 197,
+        "name": "Strawberry cake ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/B%C3%BBche_de_No%C3%ABl_chocolat_framboise_maison.jpg/120px-B%C3%BBche_de_No%C3%ABl_chocolat_framboise_maison.jpg",
+        "origin": " ",
+        "ingredients": "A cake that uses strawberry as a primary ingredient "
+    },
+    {
+        "id": 198,
+        "name": "Streuselkuchen ",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Zuger-Kirschtorte-Stueck-2013.jpg/120px-Zuger-Kirschtorte-Stueck-2013.jpg",
+        "origin": "Germany ",
+        "ingredients": "Streusel (butter, flour, and sugar) "
+    }
+]

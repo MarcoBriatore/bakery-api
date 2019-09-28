@@ -1,0 +1,1444 @@
+    [
+        {
+            "id": 1,
+            "name": "Alexandertorte",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Aleksanterinleivos.jpg/120px-Aleksanterinleivos.jpg",
+            "origin": "Latvia",
+            "description": "Pastry strips filled with berries.[2][3]"
+        },
+        {
+            "id": 2,
+            "name": "Alfajor",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Alfajor_H.jpg/120px-Alfajor_H.jpg",
+            "origin": "Argentina/Uruguay",
+            "description": "Pastry strips filled with dulce de leche."
+        },
+        {
+            "id": 3,
+            "name": "Aloo pie",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Aloo_Pie.jpg/120px-Aloo_Pie.jpg",
+            "origin": "Trinidad and Tobago",
+            "description": "Variant of the samosa.[4] It is a soft, fried pastry made from flour and water, and filled with boiled, spiced and mashed potatoes (aloo being a romanization of the Hindi word for \"potato\") and other vegetables such as green peas or chana dal (split chickpeas without their seedcoat)."
+        },
+        {
+            "id": 4,
+            "name": "Apple pie",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/FoodApplePie.jpg/120px-FoodApplePie.jpg",
+            "origin": "United Kingdom",
+            "description": "Apple pie is a fruit pie (or tart) in which the principle filling ingredient is apples. It is sometimes served with whipped cream, Cheddar cheese, or ice cream on top. Pastry is generally used top-and-bottom, making it a double-crust pie, the upper crust of which may be a circular shaped crust or a pastry lattice woven of strips; exceptions are deep-dish apple pie with a top crust only, and open-face Tarte Tatin."
+        },
+        {
+            "id": 5,
+            "name": "Apple strudel",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Strudel.jpg/120px-Strudel.jpg",
+            "origin": "Central Europe",
+            "description": "Sliced apples and other fruit are wrapped and cooked in layers of filo pastry. The earliest known recipe is in Vienna, but several countries in central and eastern Europe claim this dish.[5]"
+        },
+        {
+            "id": 6,
+            "name": "Bahulu",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Khairul_Izwan_Wedding_%40_Bukit_Jelutong.jpg/120px-Khairul_Izwan_Wedding_%40_Bukit_Jelutong.jpg",
+            "origin": "Malaysia",
+            "description": "A Malay pastry similar like the Madeleine although with round shapes and different ingredients,[6] made of wheat flour, eggs, sugar and baking powder. Usually served during the religious celebration in the country.[7][8]"
+        },
+        {
+            "id": 7,
+            "name": "Bakewell pudding",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bakewell_pudding_%28cropped%29.JPG/120px-Bakewell_pudding_%28cropped%29.JPG",
+            "origin": "United Kingdom",
+            "description": "First created by accident in Bakewell around 1860, this has a flaky pastry base covered with raspberry jam and topped with custard and almonds. The Bakewell tart is similar but tends to use shortcrust pastry with a layer of sponge instead of custard.[9]"
+        },
+        {
+            "id": 8,
+            "name": "Baklava",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Baklavas%2C_freshly_baked.jpg/120px-Baklavas%2C_freshly_baked.jpg",
+            "origin": "Ottoman Empire",
+            "description": "An Ottoman pastry that is rich and sweet, made of layers of filo pastry filled with chopped nuts and sweetened with syrup or honey.[10]"
+        },
+        {
+            "id": 9,
+            "name": "Bakpia Pathok",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bakpia_pathok_%28cropped1%29.jpg/120px-Bakpia_pathok_%28cropped1%29.jpg",
+            "origin": "Indonesia (Yogyakarta)/Philippines",
+            "description": "Small, round-shaped Chinese-Indonesian-Filipino pastries, usually stuffed with mung bean paste."
+        },
+        {
+            "id": 10,
+            "name": "Banbury cake",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Banbury_cake.jpg/120px-Banbury_cake.jpg",
+            "origin": "United Kingdom  (Banbury, Oxfordshire)",
+            "description": "A spiced, currant-filled, flat pastry, similar to Eccles cake (qv)."
+        },
+        {
+            "id": 11,
+            "name": "Banitsa",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Banitsa_in_Sofia_Bulgaria_20090404_002.JPG/120px-Banitsa_in_Sofia_Bulgaria_20090404_002.JPG",
+            "origin": "Bulgaria",
+            "description": "Prepared by layering a mixture of whisked eggs and pieces of cheese between filo pastry, which is then baked in an oven"
+        },
+        {
+            "id": 12,
+            "name": "Banket",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Almond-patties.jpg/120px-Almond-patties.jpg",
+            "origin": "Netherlands",
+            "description": "Popular during the Christmas season, prepared by rolling pastry dough around an almond paste filling and then baking it. The log is then cut into short lengths for serving, hot or cold."
+        },
+        {
+            "id": 13,
+            "name": "Bear claw",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bear_claw_pastry.JPG/120px-Bear_claw_pastry.JPG",
+            "origin": "United States",
+            "description": "Sweet breakfast pastry."
+        },
+        {
+            "id": 14,
+            "name": "Beaver Tail",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Cinnamon_and_sugar_BeaverTail.jpg/120px-Cinnamon_and_sugar_BeaverTail.jpg",
+            "origin": "Canada",
+            "description": "A fried dough pastry, individually hand stretched to resemble a beaver's tail then covered in different toppings including cinnamon and sugar; fruit jams; chocolate; peanut butter; butter and garlic; etc. In some parts of Canada, it is also called an \"Elephant Ear\"."
+        },
+        {
+            "id": 15,
+            "name": "Belekoy",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/1656Food_Fruits_Cuisine_Bulacan_Philippines_43.jpg/120px-1656Food_Fruits_Cuisine_Bulacan_Philippines_43.jpg",
+            "origin": "Philippines(Bulacan)",
+            "description": "Made with flour, sugar, sesame seeds and vanilla."
+        },
+        {
+            "id": 16,
+            "name": "Belokranjska povitica",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Berliner-Pfannkuchen.jpg/120px-Berliner-Pfannkuchen.jpg",
+            "origin": "Slovenia",
+            "description": "National dish that consists of a pastry roll with fillings. (English: White country (or white mountain) rolled cake)."
+        },
+        {
+            "id": 17,
+            "name": "Berliner",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bethmaennchen_%28cropped%29.jpg/120px-Bethmaennchen_%28cropped%29.jpg",
+            "origin": "Germany/Central Europe",
+            "description": "A Berliner Pfannkuchen is a traditional North German-Central European pastry similar to a doughnut with no central hole made from sweet yeast dough fried in fat or oil, with a marmalade or jam filling and usually icing, powdered sugar or conventional sugar on top."
+        },
+        {
+            "id": 18,
+            "name": "Bethmännchen",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bichon_au_citron_9.jpg/120px-Bichon_au_citron_9.jpg",
+            "origin": "Germany",
+            "description": "A sweet from Frankfurt on the Main, prepared with marzipan with almond, powdered sugar, rosewater, flour and egg. Typically prepared for Christmas."
+        },
+        {
+            "id": 19,
+            "name": "Bichon au citron",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bierocks.jpg/120px-Bierocks.jpg",
+            "origin": "France",
+            "description": "Similar to a turnover in size, shape, and made of puff pastry. A major distinguishing feature is that it is filled with lemon curd. The outer layer of sugar is sometimes partially caramelized."
+        },
+        {
+            "id": 20,
+            "name": "Bierock",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/B%C3%BCndner_Birnbrot.jpg/120px-B%C3%BCndner_Birnbrot.jpg",
+            "origin": "Eastern Europe",
+            "description": "Meat-filled pocket pastries originating in Central or Eastern Europe, possibly in Germany or Russia. The dish is common among the Volga German community in the United States and Argentina. It was brought to the United States in the 1880s by German Russian Mennonite immigrants.[11] Bierock is filled with cooked and seasoned ground beef, shredded cabbage and onions, then oven baked until the dough is golden brown. Some variants include grated carrots."
+        },
+        {
+            "id": 21,
+            "name": "Birnbrot",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Facturas_en_plato_%28cropped%29.jpg/120px-Facturas_en_plato_%28cropped%29.jpg",
+            "origin": "Switzerland",
+            "description": "A traditional pastry originating in Switzerland with a filling of dried pears"
+        },
+        {
+            "id": 22,
+            "name": "Bizcocho",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Su_B%C3%B6re%C4%9Fi.JPG/120px-Su_B%C3%B6re%C4%9Fi.JPG",
+            "origin": "Spain, Latin America",
+            "description": "The name given in Spain and several Latin American countries to many variants of buttery flaky pastry and some cookies"
+        },
+        {
+            "id": 23,
+            "name": "Blachinda",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bossche_bol_1.jpg/120px-Bossche_bol_1.jpg",
+            "origin": "Russia",
+            "description": "A German-Russian pastry dessert. They are turnovers made of a pie-like crust and filled with a pumpkin filling."
+        },
+        {
+            "id": 24,
+            "name": "Börek",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Bougatsa.png/120px-Bougatsa.png",
+            "origin": "Ottoman Empire",
+            "description": "A family of baked or fried filled pastries made of a thin flaky dough known as yufka. It can be filled with cheese, often white cheese or kaşar; minced meat, potatoes or vegetables. Most probably invented in what is now Modern Turkey, in the early times of the Ottoman Empire, to become a popular element of Ottoman cuisine.[12][13][14] A börek may be prepared in a large pan and cut into portions after baking, or as individual pastries. The top of the börek is often sprinkled with sesame seeds."
+        },
+        {
+            "id": 25,
+            "name": "Bossche bol",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Boyoz_g%C3%B6sterim.jpg/120px-Boyoz_g%C3%B6sterim.jpg",
+            "origin": "Netherlands",
+            "description": "Sometimes called chocoladebol (\"chocolate ball\") in its city of origin, is a pastry from the Dutch city of 's-Hertogenbosch (also called Den Bosch). It is effectively a large profiterole, about 12 centimetres (4.7 in) in diameter, filled with whipped cream and coated entirely or almost entirely with (usually dark) chocolate."
+        },
+        {
+            "id": 26,
+            "name": "Bougatsa",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Bridie.jpg/120px-Bridie.jpg",
+            "origin": "Greece",
+            "description": "A Greek breakfast pastry consisting of semolina, custard, feta or minced meat filling between layers of filo. When with semolina or custard filling is considered a sweet dessert and is topped with icing sugar and cinnamon powder."
+        },
+        {
+            "id": 27,
+            "name": "Boyoz",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Briouat_%28cropped%29.jpg/120px-Briouat_%28cropped%29.jpg",
+            "origin": "Turkey (İzmir)",
+            "description": "A Turkish pastry associated with İzmir, Turkey. Boyoz paste is a mixture of flour, sunflower oil and a small addition of tahini. It is kneaded by hand and the ball of paste is left to repose for 2- hours. The paste is then flattened to the width of a dish and left to repose again. It is then kneaded and opened once more, before being formed into a roll and left to repose as such for a further period of several hours. When the tissue of the paste is still soft but about to detach into pieces, it is cut into small balls and put in rows of small pans and marinaded in vegetable oil between half an hour and one hour. Their paste then takes an oval form and acquires the consistence of a millefeuille. The small balls can then be put on a tray into a very high-temperature oven either in plain form or with fillings of cheese or spinach added inside."
+        },
+        {
+            "id": 28,
+            "name": "Bridie",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Brutti_ma_buoni.JPG/120px-Brutti_ma_buoni.JPG",
+            "origin": "United Kingdom  (Forfar)",
+            "description": "a Scottish meat pastry that originates from Forfar, Scotland. Bridies are said \"to have been 'invented' by a Forfar baker in the 1850s\".[15] The name may refer to the pie's frequent presence on wedding menus, or to Margaret Bridie of Glamis, \"who sold them at the Buttermarket in Forfar.\"[16] They are similar to pasties, but because they are made without potatoes, are much lighter in texture."
+        },
+        {
+            "id": 29,
+            "name": "Briouat",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Bundevara.jpeg/120px-Bundevara.jpeg",
+            "origin": "Morocco",
+            "description": "A sweet puff pastry and part of Moroccan cuisine"
+        },
+        {
+            "id": 30,
+            "name": "Bruttiboni",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Galaktoboureko.jpg/120px-Galaktoboureko.jpg",
+            "origin": "Italy (Prato, central Italy)",
+            "description": "Almond-flavored biscuit"
+        },
+        {
+            "id": 31,
+            "name": "Bundevara",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Caneles_stemilion.jpg/120px-Caneles_stemilion.jpg",
+            "origin": "Serbia",
+            "description": "A pie filled with pumpkin, and could refer to either a savijača (made of rolled filo) or a štrudla (made of rolled dough). Both sweet and salty pies are made."
+        },
+        {
+            "id": 32,
+            "name": "Burek",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Cannolo_siciliano_with_chocolate_squares.jpg/120px-Cannolo_siciliano_with_chocolate_squares.jpg",
+            "origin": "",
+            "description": "see Börek"
+        },
+        {
+            "id": 33,
+            "name": "Canelé",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Carac_027.jpg/120px-Carac_027.jpg",
+            "origin": "France (Bordeaux)",
+            "description": "A small pastry with a soft and tender custard center and a dark, thick caramelized crust."
+        },
+        {
+            "id": 34,
+            "name": "Cannoli siciliani",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Charlotte_aux_poires_et_chocolat.jpg/120px-Charlotte_aux_poires_et_chocolat.jpg",
+            "origin": "Italy (Sicily)",
+            "description": "Cannoli consist of tube-shaped shells of fried pastry dough, filled with a sweet, creamy filling usually containing ricotta. They range in size from \"cannulicchi\", no bigger than a finger, to the fist-sized proportions typically found in Piana degli Albanesi, south of Palermo, Sicily."
+        },
+        {
+            "id": 35,
+            "name": "Carac",
+            "image": "http://upload.wikimedia.org/wikipedia/en/thumb/c/cd/S6001271.JPG/120px-S6001271.JPG",
+            "origin": "Switzerland (French)",
+            "description": "A Swiss pastry made of chocolate, usually found in the French part of Switzerland."
+        },
+        {
+            "id": 36,
+            "name": "Charlotte",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Cherry-Pie-Slice.jpg/120px-Cherry-Pie-Slice.jpg",
+            "origin": "France",
+            "description": "A type of trifle that can be served hot or cold. It can also be known as an \"ice-box cake\". Sweet Bread, sponge cake or biscuits/cookies are used to line a mold, which is then filled with a fruit puree or custard."
+        },
+        {
+            "id": 37,
+            "name": "ChaSan",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/LoveChinChin.jpg/120px-LoveChinChin.jpg",
+            "origin": "China (Huai'an)",
+            "description": "A traditional Chinese pastry that is popular in Jiangsu Province, China, and especially in Huai'an, a historic city which is considered as the home of Chasan."
+        },
+        {
+            "id": 38,
+            "name": "Chatti Pathiri",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Chorley_cakes_edited.jpg/120px-Chorley_cakes_edited.jpg",
+            "origin": "India (Kerala)",
+            "description": "A layered pastry made in the North Malabar and Malabar region, of Kerala State. It is made in both sweet and savory variations. The dish is very similar to the Italian lasagna. Instead of pasta; pastry sheets or pancakes made with flour, egg, oil and water are used."
+        },
+        {
+            "id": 39,
+            "name": "Cherry pie",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chouquette_%28cropped%29.jpg/120px-Chouquette_%28cropped%29.jpg",
+            "origin": "United States, Europe",
+            "description": "A pie baked with a cherry filling. Traditionally, cherry pie is made with tart rather than sweet cherries as it is easier to control how sweet the pie eventually becomes and also eventually translates to a sharper taste. Morello cherries are one of the most common kinds of cherry used, but others, like the native black cherry, are also occasionally utilized."
+        },
+        {
+            "id": 40,
+            "name": "Chin Chin",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Choux_pastry_swans.jpg/120px-Choux_pastry_swans.jpg",
+            "origin": "Nigeria",
+            "description": "A crunchy snack consisting of small finely cut pieces of dough which is then deep fried. Dough majorly consists of wheat flour, milk, sugar, eggs and sometimes nut-meg or flavour. It may be cut into strips or tiny squares."
+        },
+        {
+            "id": 41,
+            "name": "Chorley cake",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kanelboller.jpg/120px-Kanelboller.jpg",
+            "origin": "United Kingdom  (Chorley, Lancashire)",
+            "description": "Chorley cakes are flattened, fruit-filled pastry cakes, traditionally associated with the town of Chorley in Lancashire, England. They are a close relative of the more widely known Eccles cake, but have some significant differences. The Chorley cake is significantly less sweet than its Eccles cousin, and is commonly eaten with a light spread of butter on top, and perhaps a slice of Lancashire cheese on the side."
+        },
+        {
+            "id": 42,
+            "name": "Chouquette",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Coques.JPG/120px-Coques.JPG",
+            "origin": "France",
+            "description": "Viennoiserie consisting of a small portion of choux pastry sprinkled with pearl sugar and sometimes filled with custard or mousse. A chouquette can also be dipped in chocolate or covered in chocolate chips."
+        },
+        {
+            "id": 43,
+            "name": "Chou à la crème",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Conejito_chilensis.jpg/120px-Conejito_chilensis.jpg",
+            "origin": "France",
+            "description": "A light pastry dough used to make profiteroles, croquembouches, éclairs, French crullers, beignets, St. Honoré cake, Indonesian kue sus, churros and gougères. It contains only butter, water, flour, and eggs. In lieu of a raising agent it employs high moisture content to create steam during cooking to puff the pastry."
+        },
+        {
+            "id": 44,
+            "name": "Cinnamon Roll",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cornish_Pasty_%28cropped%29.jpeg/120px-Cornish_Pasty_%28cropped%29.jpeg",
+            "origin": "Sweden",
+            "description": "A Cinnamon roll (also cinnamon bun, cinnamon swirl, cinnamon Danish and cinnamon snail) is a sweet roll served commonly in Northern Europe and North America. In North America its common use is for breakfast. Its main ingredients are flour, cinnamon, sugar, and butter, which provide a robust and sweet flavor. In some places it is eaten as a breakfast food and is often served with cream cheese or icing."
+        },
+        {
+            "id": 45,
+            "name": "Coca",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Conversation_Tart.jpg/120px-Conversation_Tart.jpg",
+            "origin": "Spain",
+            "description": "Typically made and consumed in territories of Catalan culture.[17][18][19][20] There are many diverse cocas, with four main varieties: sweet, savory, closed and open."
+        },
+        {
+            "id": 46,
+            "name": "Conejito",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Coussin.jpg/120px-Coussin.jpg",
+            "origin": "Chile",
+            "description": "Similar to berliner but baked in the oven, not fried."
+        },
+        {
+            "id": 47,
+            "name": "Cornish pasty",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Cream_horns.jpg/120px-Cream_horns.jpg",
+            "origin": "United Kingdom (Cornwall)",
+            "description": "Sometimes known as a \"pastie\" or \"British pasty\" in the United States,[21] is a filled pastry case, associated in particular with Cornwall in Great Britain. It is made by placing the uncooked beef & potatoes, onions, swede filling on a flat pastry circle, and folding it to wrap the filling, crimping the edge at the side or top to form a seal. The result is a raised semicircular end-product."
+        },
+        {
+            "id": 48,
+            "name": "Conversation",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bistro_Jeanty_-_Sarah_Stierch_-_May_2018_05.jpg/120px-Bistro_Jeanty_-_Sarah_Stierch_-_May_2018_05.jpg",
+            "origin": "France",
+            "description": "A patisserie developed in the late 18th century that is made with puff pastry, filled with a frangipane cream, and topped with royal icing.[22]"
+        },
+        {
+            "id": 49,
+            "name": "Coussin de Lyon",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Crocette_di_Caltanissetta.jpg/120px-Crocette_di_Caltanissetta.jpg",
+            "origin": "France (Lyon)",
+            "description": "A sweet specialty of Lyon composed of chocolate and marzipan. Pictured is Coussin de Lyon with dark green netting, filled with a chocolate ganache flavored with curacao."
+        },
+        {
+            "id": 50,
+            "name": "Cream horn",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Croissant_photo_detouree_W_%28cropped%29.jpg/120px-Croissant_photo_detouree_W_%28cropped%29.jpg",
+            "origin": "",
+            "description": "A pastry made with flaky or puff pastry, filled with fruit or jam and whipped cream. The horn shape is made by winding overlapping pastry strips around a conical mold. After baking, a spoonful of jam or fruit is added and the pastry is then filled with whipped cream. The pastry can also be moistened and sprinkled with sugar before baking for a sweeter, crisp finish.[23]"
+        },
+        {
+            "id": 51,
+            "name": "Crêpes Suzette",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cronut.jpg/120px-Cronut.jpg",
+            "origin": "France",
+            "description": "a French dessert consisting of a crêpe with beurre Suzette (pronounced [bœʁ syzɛt]), a sauce of caramelized sugar and butter, tangerine or orange juice, zest, and Grand Marnier or orange Curaçao liqueur. It is often served “flambé.”"
+        },
+        {
+            "id": 52,
+            "name": "Crocetta of Caltanissetta",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Croquembouche_wedding_cake.jpg/120px-Croquembouche_wedding_cake.jpg",
+            "origin": "Sicily (Caltanissetta)",
+            "description": "Sweet disappeared and rediscovered in 2014. The ingredients of the crocetta (\"small cross\") are typical of the area of Caltanissetta at the beginning of the last century. They are: almonds, sugar, sweet lemon puree, oranges or other fruit typical of the area, pistachio, and powdered sugar. The crocetta is produced in two variants: lemon flavored and covered in powdered sugar, or orange flavored and topped with ground pistachio."
+        },
+        {
+            "id": 53,
+            "name": "Croissant",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cuban_pastry%2C_guava.jpg/120px-Cuban_pastry%2C_guava.jpg",
+            "origin": "France",
+            "description": "A buttery flaky bread named for its distinctive crescent shape. Croissants are made of a leavened variant of puff pastry. The yeast dough is layered with butter, rolled and folded several times in succession, then rolled into a sheet, a technique called laminating. Croissants have long been a staple of French bakeries and pâtisseries. The Kipferl – ancestor of the croissant – has been documented in Austria going back at least as far as the 13th century, in various shapes.[24] The Kipferl can be made plain or with nut or other fillings (some consider the rugelach a form of Kipferl). The \"birth\" of the croissant itself – that is, its adaptation from the plainer form of Kipferl, before its subsequent evolution (to a puff pastry) – can be dated with some precision to at latest 1839 (some say 1838), when an Austrian artillery officer, August Zang, founded a Viennese Bakery (\"Boulangerie Viennoise\") at 92, rue de Richelieu in Paris.[25] This bakery, which served Viennese specialities including the Kipferl and the Vienna loaf, quickly became popular and inspired French imitators (and the concept, if not the term, viennoiserie, a 20th-century term for supposedly Vienna-style pastries). The French version of the Kipferl was named for its crescent (croissant) shape."
+        },
+        {
+            "id": 54,
+            "name": "Croline",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bite_of_Curry_Puff.jpg/120px-Bite_of_Curry_Puff.jpg",
+            "origin": "",
+            "description": "A flaky (typically puff) pastry filled with various (traditionally) salty or spicy fillings. Normally the top side of the pastry is latticed. Both sweet and savory croline varieties exist."
+        },
+        {
+            "id": 55,
+            "name": "Cronut",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Cinnamon_snails.jpg/120px-Cinnamon_snails.jpg",
+            "origin": "United States",
+            "description": "A croissant-doughnut pastry attributed to New York City."
+        },
+        {
+            "id": 56,
+            "name": "Croquembouche",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Pecan_and_Maple_Danish.JPG/120px-Pecan_and_Maple_Danish.JPG",
+            "origin": "France",
+            "description": "A traditional dessert in French cuisine, its name comes from the French words croque en bouche, meaning 'crunch in the mouth'. A form of choux pastry that is generally served as a high-piled cone of chocolate, cream-filled profiteroles all bound together with threads of caramel. It is also decorated with sugared almonds, chocolate, flowers, or ribbons; sometimes also covered in macarons or ganache.[26][27] It is traditionally served during wedding reception."
+        },
+        {
+            "id": 57,
+            "name": "Cuban pastelito",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Kuvani_djevrek.jpg/120px-Kuvani_djevrek.jpg",
+            "origin": "Cuba",
+            "description": "A baked puff pastry filled with sweet or savory fillings. Traditional fillings include cream cheese, guava, seasoned ground beef, and coconut. The sweet fillings are made with sweetened fruit pulps."
+        },
+        {
+            "id": 58,
+            "name": "Curry puff",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Dutch_Letters_-_The_Perfect_Food_%283406778389%29.jpg/120px-Dutch_Letters_-_The_Perfect_Food_%283406778389%29.jpg",
+            "origin": "Southeast Asia",
+            "description": "A Southeast Asian snack. It is a small pie consisting of specialised curry with chicken and potatoes in a deep-fried or baked[28] pastry shell, and it looks like the Portuguese stuffed bread called Empanada. The curry is quite thick to prevent it from oozing out of the snack."
+        },
+        {
+            "id": 59,
+            "name": "Dabby-Doughs",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Eccles_cakes.jpg/120px-Eccles_cakes.jpg",
+            "origin": "",
+            "description": "Traditionally made using the remnants of the dough leftovers from making the pie, they can also be prepared in large amounts by simply making a batch of pastry dough. The filling of a dabby-dough typically consists of a mixture of cinnamon and white sugar sprinkled on butter or margarine, rolled, sliced and baked."
+        },
+        {
+            "id": 60,
+            "name": "Danish pastry",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Eclairs_with_chocolate_icing_at_Cafe_Blue_Hills.jpg/120px-Eclairs_with_chocolate_icing_at_Cafe_Blue_Hills.jpg",
+            "origin": "Denmark",
+            "description": "A sweet pastry, of Viennese origin, which has become a speciality of Denmark and neighboring Scandinavian countries. Called 'facturas' in Argentina and neighbouring countries (of which 'tortitas negras' are a type). Pictured is a pecan and maple Danish pastry"
+        },
+        {
+            "id": 61,
+            "name": "Djevrek",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Empanada_-_Stu_Spivack.jpg/120px-Empanada_-_Stu_Spivack.jpg",
+            "origin": "Ottoman Empire",
+            "description": "A ring-shaped bread-pastry covered with sesame seeds. Typically consumed as a breakfast or snack dish.[29] Similar to simit."
+        },
+        {
+            "id": 62,
+            "name": "Dutch letter",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ensa%C3%AFmades_individuals.jpg/120px-Ensa%C3%AFmades_individuals.jpg",
+            "origin": "Netherlands",
+            "description": "Typically prepared using flour, eggs and butter or puff pastry as its base and filled with almond paste, dusted with sugar and shaped in an \"S\" or other letter shape. It was introduced into the United States by Dutch immigrants in the mid 19th century."
+        },
+        {
+            "id": 63,
+            "name": "Dutch Baby Pancake (sometimes called a German pancake, a Bismarck, or a Dutch puff)",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Fa_gao_%28enhanced%29.jpg/120px-Fa_gao_%28enhanced%29.jpg",
+            "origin": "United States by German Americans",
+            "description": "A large Popover, often made with apples."
+        },
+        {
+            "id": 64,
+            "name": "Eccles cake",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Fazuelos_sephradic.jpg/120px-Fazuelos_sephradic.jpg",
+            "origin": "United Kingdom (Eccles)",
+            "description": "A small, round cake filled with currants and made from flaky pastry with butter, which is sometimes topped with demerara sugar."
+        },
+        {
+            "id": 65,
+            "name": "Éclair",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fig-Newtons-Stacked.jpg/120px-Fig-Newtons-Stacked.jpg",
+            "origin": "France (likely)",
+            "description": "An oblong pastry made with choux dough filled with a cream and topped with icing. The dough, which is the same as that used for profiterole, is typically piped into an oblong shape with a pastry bag and baked until it is crisp and hollow inside. Once cool, the pastry then is filled with a coffee- or chocolate-flavoured[30] pastry cream (crème pâtissière), custard, whipped cream, or chiboust cream; and iced with fondant icing.[30] The éclair probably originated in France during the nineteenth century."
+        },
+        {
+            "id": 66,
+            "name": "Empanada",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Sweet_potato_flaky_pastry.jpg/120px-Sweet_potato_flaky_pastry.jpg",
+            "origin": "Spain",
+            "description": "A stuffed bread or pastry baked or fried in many countries in Western Europe, Latin America, and parts of Southeast Asia. The name comes from the Spanish verb empanar, meaning to wrap or coat in bread. Empanada is made by folding a dough or bread patty around the stuffing. The stuffing usually consists of a variety of meat, cheese, huitlacoche, vegetables or fruits, among others. Empanadas trace their origins to Galicia and Portugal.[31][32][33] They first appeared in mediaeval Iberia during the time of the Moorish invasions. A cookbook published in Catalan in 1520, the Libre del Coch by Ruperto de Nola, mentions empanadas filled with seafood among its recipes of Catalan, Italian, French, and Arabian food.[34][35] In turn, it is believed that empanadas and the similar calzones are both derived from the Indian meat-filled pies, samosas.[36]"
+        },
+        {
+            "id": 67,
+            "name": "Ensaïmada",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Clafoutis.jpg/122px-Clafoutis.jpg",
+            "origin": "Balearic Islands",
+            "description": "A common cuisine eaten in most former Spanish territories in Latin America and the Philippines, prepared using strong (high protein) flour, water, sugar, eggs, mother dough and a kind of reduced pork lard named saïm. In Ibiza there is a sweet called greixonera made with ensaimada pieces left over from the day before.[37]"
+        },
+        {
+            "id": 68,
+            "name": "Fa gao",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flaons_de_morella1.JPG/120px-Flaons_de_morella1.JPG",
+            "origin": "China",
+            "description": "A Chinese cupcake-type pastry made with rice flour and yeast, the batter is typically left to rest for fermentation (such as overnight) prior to being steam-cooked. Commonly consumed on the Chinese New Year."
+        },
+        {
+            "id": 69,
+            "name": "Fazuelos, Fijuelas, or Deblas",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flies_cemetery_%28cropped%29.jpg/120px-Flies_cemetery_%28cropped%29.jpg",
+            "origin": "Jewish (Sephardic)",
+            "description": "A fried thin dough made of flour and a large number of eggs. A traditional Jewish pastry, the Sephardic equivalent to the Ashkenazi hamantashen. In Israel, hamantaschen are called Oznei Haman (Hebrew: אוזני המן‎), Hebrew for \"Haman's ears\" in reference to their defeated enemy's ears, and they represent his pockets, his hat, and the dice used to cast lots. They are usually eaten for Purim, although some families eat them at the end of Yom Kippur. Turkish Jews add brandy to the dough and Moroccan Jews eat them with cinnamon and syrup."
+        },
+        {
+            "id": 70,
+            "name": "Fig roll",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Franzbroetchen.wmt.jpg/120px-Franzbroetchen.wmt.jpg",
+            "origin": "Egypt (Ancient)[citation needed]",
+            "description": "An ancient Egyptian pastry,[citation needed] filled with fig paste. Pictured is a mass-produced product. Forerunner of the Fig Newton"
+        },
+        {
+            "id": 71,
+            "name": "Flaky pastry",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Galette_des_Rois.png/120px-Galette_des_Rois.png",
+            "origin": "",
+            "description": "In baking, a flaky pastry (also known as a \"quick puff pastry\" or \"blitz puff pastry\")[38] is a light, flaky, unleavened pastry, similar to a puff pastry. The main difference is that in a flaky pastry, large lumps of shortening (approximately 1-in./2½ cm. across), are mixed into the dough, as opposed to a large rectangle of shortening with a puff pastry."
+        },
+        {
+            "id": 72,
+            "name": "Flaugnarde",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Recette_gateau_basque_etape_12.jpg/120px-Recette_gateau_basque_etape_12.jpg",
+            "origin": "France",
+            "description": "a baked French dessert with fruit or nuts arranged in a buttered dish and covered with a thick flan-like batter."
+        },
+        {
+            "id": 73,
+            "name": "Flaons",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Gibanica_%28cropped%29.jpg/120px-Gibanica_%28cropped%29.jpg",
+            "origin": "Spain",
+            "description": "Flaons have different shapes, and fillings usually consist of some type of cheese, varying according to the location. Sweet flaons are usually sweetened with sugar, but honey was traditionally used more often. Historically the first recorded mention of these cakes is from 1252 and they are mentioned as well in Ramon Llull's book Blanquerna, written in 1283.[citation needed]"
+        },
+        {
+            "id": 74,
+            "name": "Flies graveyard",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gujhia.JPG/120px-Gujhia.JPG",
+            "origin": "United Kingdom",
+            "description": "\"Flies Graveyard\" or \"Flies Cemetery\" are nicknames used in various parts of the United Kingdom for sweet pastries filled with currants or raisins, which are the \"flies\" in the \"graveyard\" or \"cemetery\". The mixture is similar to sweet mince pies."
+        },
+        {
+            "id": 75,
+            "name": "Franzbrötchen",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Food_from_Turkey_%28G%C3%B6zleme%29.jpg/120px-Food_from_Turkey_%28G%C3%B6zleme%29.jpg",
+            "origin": "Germany (northern)",
+            "description": "Commonly found in northern Germany, especially Hamburg, Franzbrötchen is a small, sweet pastry, baked with butter and cinnamon. Sometimes other ingredients are used, such as chocolate or raisins."
+        },
+        {
+            "id": 76,
+            "name": "Galette",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bowl_of_Gulab_Jamun.JPG/120px-Bowl_of_Gulab_Jamun.JPG",
+            "origin": "France",
+            "description": "Galette is a term used in French cuisine to designate various types of flat, round or freeform crusty cakes. One of the most known is the \"galette des rois\"."
+        },
+        {
+            "id": 77,
+            "name": "Gâteau Basque",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/GustavAdolfBakelse.jpg/120px-GustavAdolfBakelse.jpg",
+            "origin": "France (Basque region)",
+            "description": "Gâteau Basque is typically constructed from layers of an almond flour based cake with a filling of either pastry cream or preserved cherries."
+        },
+        {
+            "id": 78,
+            "name": "Şorqoğal",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Hwangnam_bread_%28cropped%29.JPG/120px-Hwangnam_bread_%28cropped%29.JPG",
+            "origin": "Azerbaijan",
+            "description": "Şor qoğal is traditional food from Azerbaijan which consist of dough thin layers with different flavors and butter between the layers."
+        },
+        {
+            "id": 79,
+            "name": "Gibanica",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Haddekuche.jpg/120px-Haddekuche.jpg",
+            "origin": "Balkans",
+            "description": "A traditional Serbian pastry dish, usually made with white cheese, now popular throughout the Balkans. Recipes can range from sweet to savory, and from very simple to festive and elaborate multi-layered cakes."
+        },
+        {
+            "id": 80,
+            "name": "Gujiya",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Homemade_hamantaschen_%28cropped%29.jpg/120px-Homemade_hamantaschen_%28cropped%29.jpg",
+            "origin": "India",
+            "description": "A traditional Indian pastry, typically prepared by filling a round, flat pastry with a sweet filling made of dried fruits, grated coconut and condensed milk solids. It is usually fried in ghee, and sometimes soaked in sugar syrup. It is popular in the northern part of India during the festival of Holi."
+        },
+        {
+            "id": 81,
+            "name": "Gözleme",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Heong_Peng_at_Keong_Kee_%2815614273663%29.jpg/120px-Heong_Peng_at_Keong_Kee_%2815614273663%29.jpg",
+            "origin": "Turkey",
+            "description": "A savory traditional Turkish handmade and hand-rolled pastry. Fresh pastry is rolled out, filled and sealed, then cooked over a griddle. Fillings include spinach, feta cheese, minced meat, egg and other foodstuffs."
+        },
+        {
+            "id": 82,
+            "name": "Gulab jamun",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/05318jfFoods_of_Bulacan_Philippinesfvf_14.jpg/120px-05318jfFoods_of_Bulacan_Philippinesfvf_14.jpg",
+            "origin": "Medieval India",
+            "description": "Found in India and eaten in other parts of South-Asia. It is a deep fried ball of milk curd dough, soaked in sugar syrup."
+        },
+        {
+            "id": 83,
+            "name": "Gundain",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jachnun_%28cropped%29.jpg/120px-Jachnun_%28cropped%29.jpg",
+            "origin": "Tibet",
+            "description": "A pastry in Tibetan cuisine made from barley grain and yeast (fermented into a light barley beer), with tsampa, dry curd cheese, wild ginseng and brown sugar.[39] This pastry is often served during the Tibetan New Year and Losar as a starter."
+        },
+        {
+            "id": 84,
+            "name": "Gustavus Adolphus pastry",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Jalebi_%28sweet%29.jpg/120px-Jalebi_%28sweet%29.jpg",
+            "origin": "Sweden",
+            "description": "Pastry named for King Gustavus Adolphus of Sweden, eaten every year on his memorial day, Gustavus Adolphus Day, 6 November. There are different recipes, but what they all have in common is a portrait of the king on top, made in chocolate or marzipan."
+        },
+        {
+            "id": 85,
+            "name": "Gyeongju bread",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/J%C3%A9suite_%288090911085%29.jpg/120px-J%C3%A9suite_%288090911085%29.jpg",
+            "origin": "South Korea (Gyeongju City, Hwanghae)",
+            "description": "Gyeongju bread is a common name for what's also called \"Hwangnam bread\". The pastry is named after Hwanghae Province, the province of its origin, which was divided into the North and South Hwanghae Provinces in 1954. A local specialty of Gyeongju City, South Korea. A small pastry with a filling of red bean paste. Gyeongju bread was first baked in 1939 at a bakery in Hwangnam-dong in central Gyeongju. It has since become popular across the country and is produced by several different companies, all based in Gyeongju."
+        },
+        {
+            "id": 86,
+            "name": "Haddekuche",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Joulutorttuja.jpg/120px-Joulutorttuja.jpg",
+            "origin": "Germany (Frankfurt, Hesse)",
+            "description": "A traditional pastry made in Frankfurt, Hesse, Germany, it is typically a diamond-shaped gingerbread. The word Haddekuche means \"hard cake\". This is because it tends to dry relatively quickly and then become very hard."
+        },
+        {
+            "id": 87,
+            "name": "Hamantash",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Lob_NARkult_09.JPG/120px-Lob_NARkult_09.JPG",
+            "origin": "Jewish (Ashkenazi)",
+            "description": "A filled-pocket cookie or pastry in Ashkenazi Jewish cuisine recognizable for its three-cornered shape. They typically have a filling in the center. including poppy seed (the oldest and most traditional variety),[40] prunes, nut, date, apricot, apple, fruit preserves, cherry, chocolate, dulce de leche, halva, or even caramel or cheese.[41] Their formation varies from hard pastry to soft doughy casings."
+        },
+        {
+            "id": 88,
+            "name": "Hellimli",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kinafa.jpg/120px-Kinafa.jpg",
+            "origin": "Cyprus",
+            "description": "A Cypriot savory pastry made with Halloumi cheese."
+        },
+        {
+            "id": 89,
+            "name": "Heong Peng",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kifli.jpg/120px-Kifli.jpg",
+            "origin": "Malaysia",
+            "description": "Heong Peng resemble slightly flattened balls, contain a sweet sticky filling made from malt and shallots, which is covered by a flaky baked crust and garnished with sesame seeds on the surface. Popular with the Malaysian Chinese community, especially those in Northern Peninsular Malaysia."
+        },
+        {
+            "id": 90,
+            "name": "Hot water crust pastry",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Klobasnek_with_cheese_little_czech.jpg/120px-Klobasnek_with_cheese_little_czech.jpg",
+            "origin": "United Kingdom",
+            "description": "Hot water crust is a type of pastry used for savory pies, such as pork pies, game pies and, more rarely, steak and kidney pies. Hot water crust is traditionally used for making hand-raised pies. The pastry is made by heating water, melting the fat in this, bringing to the boil, and finally mixing with the flour. When baked, the crust acquires a rich, shiny, golden-brown exterior, which is fairly crisp and water-resistant. This allows the pies to be filled with a savoury jelly or gravy as they cool, often through a central hole in the crust made expressly for the purpose during raising."
+        },
+        {
+            "id": 91,
+            "name": "Huff paste",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kniek%C3%BCchle_2510.jpg/120px-Kniek%C3%BCchle_2510.jpg",
+            "origin": "United Kingdom",
+            "description": "Huff paste was a cooking technique that involved making a stiff pie shell[42] or \"coffin\" using a mixture of flour, suet (raw beef or mutton fat), and boiling water. When cooked, a tough protective layer was created around the food inside. The pastry would often be discarded as it was virtually inedible.[43] Its main purpose was to create a solid container for the pie’s ingredients. A dish from Wiltshire called the Devizes Pie, is layered forcemeat or offal cooked under a huff paste.[44][failed verification]"
+        },
+        {
+            "id": 92,
+            "name": "Inipit",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Knysh.jpg/120px-Knysh.jpg",
+            "origin": "Philippines",
+            "description": "Inipit is a flat pastry made of flour, milk, lard, and sugar. Guiguinto, Bulacan is known for its inipit."
+        },
+        {
+            "id": 93,
+            "name": "Jachnun",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Makovy_frgal.jpg/120px-Makovy_frgal.jpg",
+            "origin": "Jewish (Yemen)",
+            "description": "A traditional Yemenite Jewish dish prepared from rolled dough which is baked on very low heat for about ten hours. The dough is rolled out thinly, brushed with shortening (traditionally, clarified butter or samneh), and rolled up, similar to puff pastry.[45] Pictured is Jachnun served with fresh grated tomato and skhug."
+        },
+        {
+            "id": 94,
+            "name": "Jalebi",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Kolompeh-Kerman.png/120px-Kolompeh-Kerman.png",
+            "origin": "India, Pakistan",
+            "description": "A sweet popular in India and some other parts of South-Asia. It is made by deep-frying batter in pretzel or circular shapes, which are then soaked in syrup. They have a somewhat chewy texture with a crystallized sugary exterior coating. Citric acid or lime juice is sometimes added to the syrup, as well as rosewater or other flavours such as kewra water."
+        },
+        {
+            "id": 95,
+            "name": "Jesuite",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ko%C5%82acz.JPG/120px-Ko%C5%82acz.JPG",
+            "origin": "France",
+            "description": "A triangular, flake pastry filled with frangipane cream and topped with sliced almonds and powdered sugar. The pastry originated in France and the name refers to the triangular shape of a Jesuit’s hat.[46]"
+        },
+        {
+            "id": 96,
+            "name": "Joulutorttu",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Komaj_sehen.jpg/120px-Komaj_sehen.jpg",
+            "origin": "Finland",
+            "description": "A Christmas pastry that is traditionally made from puff pastry in the shape of a star or pinwheel and filled with prune jam and often dusted with icing sugar"
+        },
+        {
+            "id": 97,
+            "name": "Kalács",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Kouignamann.JPG/120px-Kouignamann.JPG",
+            "origin": "Hungary",
+            "description": "A Hungarian sweet bread very similar to brioche, usually baked in a braided form, and traditionally considered an Easter food. Until the end of the 19th century, the preparation of kalács was similar to that of everyday bread; the difference was in the shape, and in the higher-quality flour used for the kalács. Nowadays kalács are prepared from a richer dough, and enriched with milk and eggs as well.[47] Kalács are baked in an oven or brick oven, sometimes directly on the stones of the brick oven, or on a baking sheet."
+        },
+        {
+            "id": 98,
+            "name": "Kanafeh",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Krempita_%28cropped%29.jpg/120px-Krempita_%28cropped%29.jpg",
+            "origin": "Middle East",
+            "description": "A Palestinian sweet made of very fine vermicelli-like pastry. It is sometimes known as shredded filo. Kanafeh, along with the closely related qata'if, is recorded in medieval Arab cookbooks from various regions.[48] It has also been a staple of the cuisines of the former Ottoman Empire in the Eastern Mediterranean. Several variations of the dish exist."
+        },
+        {
+            "id": 99,
+            "name": "Karakudamono",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/PretzelSign.JPG/120px-PretzelSign.JPG",
+            "origin": "Japan",
+            "description": "A Japanese term used to collectively describe assorted pastry confections of Chinese origin (also called togashi) that were introduced to Japan through the efforts of an envoy to Tang China"
+        },
+        {
+            "id": 100,
+            "name": "Kifli",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hrostule.jpg/120px-Hrostule.jpg",
+            "origin": "Slovakia, Hungary",
+            "description": "Diós kifli, mákos kifli, also known as Pozsonyi kifli are crescent shaped sweet leavened pastries filled with a sweet walnut (diós) or poppy (mákos) paste. (Pozsony was the Hungarian name of Bratislava during the Austro-Hungarian Empire). They are a variety of beigli, very similar in flavor but different in shape and size. Vaníliás kifli is a small soft cookie made from a dough of ground nuts, instead of flour. It is usually made with walnuts but almonds are more often used outside of Hungary. Once baked they are rolled in vanilla flavored confectioners' sugar before allowed to cool."
+        },
+        {
+            "id": 101,
+            "name": "Klobasnek",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Kuciukai_%28cropped%29.jpg/120px-Kuciukai_%28cropped%29.jpg",
+            "origin": "Czech",
+            "description": "A savory finger food of Czech origin.[49][50][51] A klobasnek is often thought to be a variation of the kolache (koláče); however, most Czechs hold the distinction that kolache are only filled with non-meat fillings. Klobasniky are similar in style to a pigs in a blanket or sausage roll, but wrapped in kolache dough."
+        },
+        {
+            "id": 102,
+            "name": "Knieküchle",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Kurtoskalacs.jpg/120px-Kurtoskalacs.jpg",
+            "origin": "Germany",
+            "description": "A traditional German fried dough pastry that is very popular in Old Bavaria, Franconia, Western Austria and Thuringia, typically made with yeast dough, but some recipes vary slightly; a common variation is the addition of raisins. The dough is then shaped in a way so it is very thin in the middle and thicker on the edges. They are then fried in boiling lard and dusted with confectioner's sugar. In Austria it is eaten with apricot marmalade. According to legend the name derives from the practice of baker women from Franconia that stretched the dough over their knees very thinly so they could read love letters through it.[citation needed]"
+        },
+        {
+            "id": 103,
+            "name": "Knish",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Strawberry-rhubarb_pie_with_pastry_lattice%2C_May_2008.jpg/120px-Strawberry-rhubarb_pie_with_pastry_lattice%2C_May_2008.jpg",
+            "origin": "Eastern Europe",
+            "description": "An Eastern European[52] snack food consisting of a filling covered with dough that is either baked, grilled, or deep fried. In most Eastern European traditional versions, the filling is made entirely of mashed potato, ground meat, sauerkraut, onions, kasha (buckwheat groats), or cheese. Other varieties of fillings include sweet potatoes, black beans, fruit, broccoli, tofu, or spinach. Knishes may be round, rectangular, or square. They may be entirely covered in dough or some of the filling may peek out of the top. Sizes range from those that can be eaten in a single bite hors d'oeuvre to sandwich-sized."
+        },
+        {
+            "id": 104,
+            "name": "Kolache",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Leipziger_Lerchen.jpg/120px-Leipziger_Lerchen.jpg",
+            "origin": "Central Europe",
+            "description": "Holds a dollop of fruit rimmed by a puffy pillow of supple dough.[53] Originating as a semisweet wedding dessert from Central Europe, they have become popular in parts of the United States. The Polish version is the kołacz. The word kolache itself means 'a small cookie' in Macedonian."
+        },
+        {
+            "id": 105,
+            "name": "Kolompeh",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Foto.Linzertorte.JPG/120px-Foto.Linzertorte.JPG",
+            "origin": "Iran",
+            "description": "Kolompeh looks like a pie with a mixture of minced dates with cardamom powder and other flavoring inside. Dates, wheat flour, walnuts and cooking oil are the main ingredients.[54]"
+        },
+        {
+            "id": 106,
+            "name": "Kołacz",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Lianrongbao.jpg/120px-Lianrongbao.jpg",
+            "origin": "Poland",
+            "description": "A traditional Polish pastry, originally a wedding cake that has made its way into American homes around the Christmas and Easter holidays. The pastry is a light and flaky dough filled with a variety of sweet and savory fillings such as apricot, raspberry, prune, sweet cheese, poppy seed or even a nut mixture. The Polish pastry is made from a unique dough that combines cream cheese with butter and flour. Variants of the traditional Slavic pastry have found entrance into many Central and Eastern European cuisines."
+        },
+        {
+            "id": 107,
+            "name": "Komaj sehen",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Mamoul_biscotti_libanesi.jpg/120px-Mamoul_biscotti_libanesi.jpg",
+            "origin": "Iran (Kerman Province)",
+            "description": "Prepared with dates and various nuts"
+        },
+        {
+            "id": 108,
+            "name": "Kouign-amann",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Arc-en-ciel_comestible.jpg/120px-Arc-en-ciel_comestible.jpg",
+            "origin": "France (Brittany)",
+            "description": "A Breton cake containing layers of butter and sugar folded in, similar in fashion to puff pastry albeit with fewer layers. The sugar caramelizes during baking. The name derives from the Breton words for cake (\"kouign\") and butter (\"amann\")."
+        },
+        {
+            "id": 109,
+            "name": "Krempita",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Makmur.png/120px-Makmur.png",
+            "origin": "Balkans",
+            "description": "A well-known dessert from the Balkans, specifically the former Yugoslavia. The dish is usually prepared with puff pastry dough."
+        },
+        {
+            "id": 110,
+            "name": "Kringle",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Makrouds.JPG/120px-Makrouds.JPG",
+            "origin": "Scandinavia",
+            "description": "A Scandinavian pastry, a Nordic variety of pretzel, which arrived with Roman Catholic monks in the 13th century, especially in Denmark. It developed further into several kinds of sweet, salty or filled pastries. The word originates from the Old Norse kringla, meaning ring or circle."
+        },
+        {
+            "id": 111,
+            "name": "Kroštule",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tajine_malsouka.JPG/120px-Tajine_malsouka.JPG",
+            "origin": "Croatia",
+            "description": "A traditional pastry from Dalmatia and Istria, made by deep frying the prepared dough."
+        },
+        {
+            "id": 112,
+            "name": "Kūčiukai",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Mandelkubb.JPG/120px-Mandelkubb.JPG",
+            "origin": "Lithuania",
+            "description": "A traditional Lithuanian pastry served on Kūčios, the traditional Christmas Eve dinner in Lithuania. They are small slightly sweet pastries made from leavened dough and poppy seeds. There are variations in sweetness, and though usually served soaked in poppy seed milk, they are also eaten without it."
+        },
+        {
+            "id": 113,
+            "name": "Kürtőskalács",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mantecadas_de_Tuesta-Valdegov%C3%ADa8.JPG/120px-Mantecadas_de_Tuesta-Valdegov%C3%ADa8.JPG",
+            "origin": "Transylvania",
+            "description": "Also known as \"chimney cake\", \"stove cake\", or \"Hungarian wedding cake\", baked on a tapered cylindrical spit over an open fire. Kürtőskalács originated from Transylvania.[55] The dough is yeast-raised, flavored with sweet spices, the most common being cinnamon, topped with walnuts or almonds, and sugar. The sugar is caramelized on the kürtöskalács surface, creating a sweet, crisp crust."
+        },
+        {
+            "id": 114,
+            "name": "Ladies' navels",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Aprikosenkn%C3%B6del.jpg/120px-Aprikosenkn%C3%B6del.jpg",
+            "origin": "Turkey",
+            "description": "Ladies' navels (kadın göbeği) are balls of choux pastry which are given a dimple, deep-fried and then soaked in syrup. Other Turkish pastries have sensuous names such as young girls' breasts (kız memesi) and lips of the beauty (dilber dudağı).[56][57]"
+        },
+        {
+            "id": 115,
+            "name": "Lattice",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Chinesepastry_GaaNeoiBing.jpg/120px-Chinesepastry_GaaNeoiBing.jpg",
+            "origin": "",
+            "description": "A pastry used in a criss-crossing pattern of strips in the preparation of various foods. Latticed pastry is used as a type of lid on many various tarts and pies. The openings between the lattice allows fruit juices in pie fillings to evaporate during the cooking process, which can caramelize the filling.[58] Pictured is a strawberry-rhubarb pie with lattice pastry."
+        },
+        {
+            "id": 116,
+            "name": "Leipziger Lerche",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Mazariner1.jpg/120px-Mazariner1.jpg",
+            "origin": "Germany",
+            "description": "A pastry of Leipzig, Germany, the name originates from the singing bird lark (German:Lerche), which was roasted with herbs and eggs or served as a filling in pastries. In the year 1720 alone, 400,000 larks were sold in Leipzig as a delicacy.[59] A typical version consists of a shortcrust filled with a mixture of crushed almonds, nuts and a cherry. The cherry symbolises the heart of the bird. It is topped with a grid of two crossed dough strips. The term Leipziger Lerche has been protected by the saxonian bakery guild since 2004.[citation needed]"
+        },
+        {
+            "id": 117,
+            "name": "Linzer torte",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Miguelito_%28cropped%29.jpeg/120px-Miguelito_%28cropped%29.jpeg",
+            "origin": "Austria",
+            "description": "A torte with a lattice design on top of the pastry,[60] named after the city of Linz, Austria. A very short, crumbly pastry made of flour, unsalted butter, egg yolks, lemon zest, cinnamon and lemon juice, and ground nuts, usually hazelnuts, but even walnuts or almonds are used, covered with a filling of redcurrant jam or, alternatively, plum butter, thick raspberry,[61] or apricot jam."
+        },
+        {
+            "id": 118,
+            "name": "Lotus seed bun",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Milhojas_-_2009.jpg/120px-Milhojas_-_2009.jpg",
+            "origin": "China",
+            "description": "A Chinese pastry found in China, prepared by steaming a yeast-based dough and contain a lotus seed filling.[62] It can be classified as a dim sum, though not exclusively so."
+        },
+        {
+            "id": 119,
+            "name": "Ma'amoul",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/LPIC7004.jpg/120px-LPIC7004.jpg",
+            "origin": "Middle East",
+            "description": "Ma'amoul are small shortbread pastries filled with dates, pistachios or walnuts (or occasionally almonds, figs, or other fillings). They are popular in Levantine cuisine and in the Persian Gulf countries. They may be in the shape of balls or of domed or flattened cookies."
+        },
+        {
+            "id": 120,
+            "name": "Macaron",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Mille-feuille_20100916.jpg/120px-Mille-feuille_20100916.jpg",
+            "origin": "France",
+            "description": "These have a debated origin but the earliest form of modern macaron was likely baked in France in the 1800s.  French macarons are made with a mixture of almond flour and confectioners' sugar which is folded into a meringue of stiffly beaten egg whites. This mixture is tinted with food coloring and baked into disks, which are sandwiched with buttercream, ganache, or curd.  Known for its smooth skin, ruffled feet, and delicate texture."
+        },
+        {
+            "id": 121,
+            "name": "Makmur",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Mooncake.jpg/120px-Mooncake.jpg",
+            "origin": "Malaysia, Singapore and Brunei",
+            "description": "Traditional Malay kuih made from butter, ghee and flour, and served during special occasion of Eid al-Fitr. Makmur is identified with its white colour and usually in a round shape.[63][64]"
+        },
+        {
+            "id": 122,
+            "name": "Makroudh",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Moorkoppen.jpg/120px-Moorkoppen.jpg",
+            "origin": "North Africa",
+            "description": "A pastry of Tunisian origin eaten in North African countries such as Tunisia, Algeria and in some parts of Libya. Makroudh are often filled with dates or almonds.[65]"
+        },
+        {
+            "id": 123,
+            "name": "Malsouka",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Muskazine.jpg/120px-Muskazine.jpg",
+            "origin": "North Africa",
+            "description": "A Tunisian pastry.[66] Sheets of malsouqa are usually sold in stacks wrapped in cellophane. Malsouqa are used to make samosa and brik (a Tunisian savory pastry), in addition to dishes with a variety of other fillings."
+        },
+        {
+            "id": 124,
+            "name": "Mandelkubb",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Kyata.jpg/120px-Kyata.jpg",
+            "origin": "Sweden",
+            "description": "A Swedish pastry with almond as the main ingredient, mixed with flour, sugar, eggs and baker's ammonia."
+        },
+        {
+            "id": 125,
+            "name": "Mantecadas",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fritule%28miske%29.JPG/120px-Fritule%28miske%29.JPG",
+            "origin": "Spain",
+            "description": "Spongy pastry similar to a muffin, but flatter. The best known mantecadas are from northwestern Spain, being a traditional product of the city of Astorga, province of León, as well as the nearby Maragateria comarca. They taste very much like pound cake. Pictured are commercial mantecadas."
+        },
+        {
+            "id": 126,
+            "name": "Marillenknödel",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Echpochmak-wiki.jpg/120px-Echpochmak-wiki.jpg",
+            "origin": "Central Europe",
+            "description": "A pastry found in the traditional Bohemian and Viennese cuisines. \"Marillen\" is the Austrian term for apricots and this pastry is found predominantly in areas where apricot orchards are common. Examples of such areas would include the Wachau and Vinschgau. Small dumplings are formed from dough, in which apricots are placed. The dumplings are then boiled and covered in streusel and powdered sugar. The dough is usually made of potato but is also made from \"Topfenteig\" (quark cheese)."
+        },
+        {
+            "id": 127,
+            "name": "Marry girl cake",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Ox-tongue_pastry_%28cropped%29.jpg/120px-Ox-tongue_pastry_%28cropped%29.jpg",
+            "origin": "China",
+            "description": "Also known as \"Dowry cake,\" a traditional Chinese pastry that was once a ceremonial cake used as wedding gifts in the traditional Chinese wedding ceremony, hence the name. Today, this cake is known more as a classic Chinese pastry rather than a wedding gift because it has lost most of its original significance due to cultural change. Essentially a lightly sweetened sponge cake that may take any number of shapes or appearances, and is considered large compared to the size of most pastries."
+        },
+        {
+            "id": 128,
+            "name": "Masan",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pain_au_chocolat_Luc_Viatour.jpg/120px-Pain_au_chocolat_Luc_Viatour.jpg",
+            "origin": "Tibet",
+            "description": "A pastry in Tibetan cuisine made with tsampa, dry cubic or curd cheese, yak butter, brown sugar and water.[67]"
+        },
+        {
+            "id": 129,
+            "name": "Mazarin",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pain_aux_raisins_%28cropped%29.jpg/120px-Pain_aux_raisins_%28cropped%29.jpg",
+            "origin": "Sweden",
+            "description": "A Swedish shortcrust pastry filled with almond paste and glazed with icing. The pastry is presumed to be named after Cardinal Mazarin."
+        },
+        {
+            "id": 130,
+            "name": "Miguelitos",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Palmeras_de_hojaldre_1.jpg/120px-Palmeras_de_hojaldre_1.jpg",
+            "origin": "Spain (La Roda, Castile-La Mancha)",
+            "description": "Pastry-cake prepared from soft puff pastry, filled with a creamy custard and covered with powdered sugar."
+        },
+        {
+            "id": 131,
+            "name": "Milhoja",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Pannenkoek_met_kaneelsuiker.jpg/120px-Pannenkoek_met_kaneelsuiker.jpg",
+            "origin": "Argentina",
+            "description": "A dessert made with stacked layers of puff pastry[68] filled with dulce de leche; a creamy mix of condensed milk, sugar, and vanilla; or sometimes white chocolate. In Argentina it's filled with Dulce de leche and topped with Italian merengue"
+        },
+        {
+            "id": 132,
+            "name": "Milk-cream strudel",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Concha_%28pan_dulce_mexicano%29_03.JPG/120px-Concha_%28pan_dulce_mexicano%29_03.JPG",
+            "origin": "Central Europe",
+            "description": "A traditional Viennese strudel, a popular pastry in Austria and in many countries in Europe that once belonged to the Austro-Hungarian empire (1867–1918). The milk-cream strudel is an oven-baked pastry dough stuffed with a sweet bread, raisin and cream filling and served in the pan with hot vanilla sauce.[69]"
+        },
+        {
+            "id": 133,
+            "name": "Mille-feuille",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Calzone_fritto.jpg/120px-Calzone_fritto.jpg",
+            "origin": "France",
+            "description": "The mille-feuille (French pronunciation: ​[mil fœj], \"thousand sheets\"),[70] vanilla slice, cream slice, custard slice, also known as the Napoleon or kremschnitt, is a pastry originating in France. Traditionally, a mille-feuille is made up of three layers of puff pastry (pâte feuilletée), alternating with two layers of pastry cream (crème pâtissière), but sometimes whipped cream, or jam are substituted. The top pastry layer is dusted with confectioner's sugar, and sometimes cocoa, or pulverized nuts (e.g. roasted almonds). Alternatively the top is glazed with icing or fondant in alternating white (icing) and brown (chocolate) stripes, and combed."
+        },
+        {
+            "id": 134,
+            "name": "Mooncake",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Papanasi_cu_cirese_%28cropped%29.jpg/120px-Papanasi_cu_cirese_%28cropped%29.jpg",
+            "origin": "China",
+            "description": "A Chinese bakery product traditionally eaten during the Mid-Autumn Festival / Zhongqiu Festival. The festival is for lunar worship and moon watching, when mooncakes are regarded as an indispensable delicacy. Typically round or rectangular pastries. A rich thick filling usually made from red bean or lotus seed paste is surrounded by a thin (2–3 mm) crust and may contain yolks from salted duck eggs. Mooncakes are usually eaten in small wedges accompanied by Chinese tea."
+        },
+        {
+            "id": 135,
+            "name": "Moorkop",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Paperwrapcake.jpg/120px-Paperwrapcake.jpg",
+            "origin": "Netherlands",
+            "description": "Consists of a profiterole (cream puff) filled with whipped cream. The top of the profiterole is glazed with white or dark chocolate. Often there is whipped cream on the top, with a slice of tangerine or a piece of pineapple."
+        },
+        {
+            "id": 136,
+            "name": "Muskazine",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/St_Petrocs_Hotel_-_Paris_Brest.jpg/120px-St_Petrocs_Hotel_-_Paris_Brest.jpg",
+            "origin": "Austria",
+            "description": "A rich Austrian cake made from almonds, spices, sugar, flour, eggs and jam. It is traditionally eaten at Christmas time, often accompanying a glass of sweet dessert wine."
+        },
+        {
+            "id": 137,
+            "name": "Nazook",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Mexico_City_pastie.JPG/120px-Mexico_City_pastie.JPG",
+            "origin": "Armenia",
+            "description": "Also spelled nazouk or nazuk, it is a crisp, but soft, and buttery, sweet, but not too sweet, pastry made with flour, butter, sugar, sour cream, yeast, vanilla extract and eggs for the wash. After the dough is made, it is refrigerated, then rolled out flat, covered in a spread made of flour, sugar, vanilla and butter, kind of like a streusel topping, rolled up into a long skinny loaf shape. The strip is washed with egg wash, cut into sections and then baked."
+        },
+        {
+            "id": 138,
+            "name": "Nun's puffs",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Brazilian_pastel.jpg/120px-Brazilian_pastel.jpg",
+            "origin": "France",
+            "description": "Made from butter, milk, flour, sugar, eggs and sometimes honey,[71] recipes call for pan frying (traditionally in lard), re-frying and then baking, or baking straight away.[72][73]"
+        },
+        {
+            "id": 139,
+            "name": "Nunt",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Malta_Pastizzi.JPG/120px-Malta_Pastizzi.JPG",
+            "origin": "Jewish",
+            "description": "A pastry originating from Jewish cuisine and vaguely resembles nougat. The pastry is predominantly served at the Jewish celebration of Purim, where self-made sweets are customarily given to neighbours and friends. Nunt is traditionally made from dark forest honey, which is cooked along with sugar and then mixed with coarsely cut walnuts. The result is placed on a smooth, wet board or an oiled marble plate, left to cool, and then cut into small rhombic-shaped pieces."
+        },
+        {
+            "id": 140,
+            "name": "Öçpoçmaq",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pastry_heart_-_01.jpg/120px-Pastry_heart_-_01.jpg",
+            "origin": "Russia (Tatar)",
+            "description": "Sometimes known as treugolnik (треугольник) among the Russian population, a Tatar national dish ,and an essential food in Tatar culture. Usually, öçpoçmaq is a triangular pastry, filled with minced beef, onion and potatoes. Öçpoçmaq is eaten with bouillon or with tea."
+        },
+        {
+            "id": 141,
+            "name": "Ox-tongue pastry",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Pate_Chaud.jpg/120px-Pate_Chaud.jpg",
+            "origin": "China",
+            "description": "A Chinese fried dough food that is elliptical in shape and resembles an ox tongue. The pastry texture is chewy, with a soft interior and a crunchy crust."
+        },
+        {
+            "id": 142,
+            "name": "Pain au chocolat",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Paxlava.jpg/120px-Paxlava.jpg",
+            "origin": "France",
+            "description": "\"Chocolate bread\", also called a chocolatine in southern France and in French Canada, is a French pastry consisting of a cuboid-shaped piece of yeast-leavened laminated dough, similar to puff pastry, with one or two pieces of chocolate in the centre."
+        },
+        {
+            "id": 143,
+            "name": "Pain aux raisins",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pecan_pie%2C_November_2010.jpg/120px-Pecan_pie%2C_November_2010.jpg",
+            "origin": "France",
+            "description": "Typically a variant on the croissant or pain au chocolat, made with a leavened butter pastry, with raisins added, shaped in a spiral with a crème pâtissière filling. Known in Australia as an \"escargot\", a member of the pâtisserie viennoise family of baked foods."
+        },
+        {
+            "id": 144,
+            "name": "Palmier",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Baklava.jpg/120px-Baklava.jpg",
+            "origin": "France, French Algeria",
+            "description": "A \"palm tree\" (French: palmier), \"pig's ear\" or \"elephant ear\" palmiers are a German, Spanish, French, Italian, Jewish, and Portuguese pastry (among other cuisines, like those of the former Spanish colonies in the Americas) formed in a palm or butterfly shape. Made using puff pastry, sugar and sometimes honey."
+        },
+        {
+            "id": 145,
+            "name": "Pannekoek",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Homemade_meat_pie.jpg/120px-Homemade_meat_pie.jpg",
+            "origin": "United States by German Americans",
+            "description": "A style of pancake with origins in the Netherlands. Pannenkoeken are usually larger (up to a foot in diameter) and much thinner than their American or Scotch pancake counterparts, but not as thin as Crêpes."
+        },
+        {
+            "id": 146,
+            "name": "Pan dulce",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/PineappleBun2.jpg/120px-PineappleBun2.jpg",
+            "origin": "Latin America",
+            "description": "(literally \"sweet bread\"), pan dulce is one of a common treat in Mexico and other Latin American countries."
+        },
+        {
+            "id": 147,
+            "name": "Panzarotti",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Pineapple_Pastry.JPG/120px-Pineapple_Pastry.JPG",
+            "origin": "Italy (central and southern)",
+            "description": "Filled, savory pastries, different forms of which are popular in Italy, Canada, and the United States. Panzerotti originated in central and southern Italy, especially in Apulia. They are small versions of the calzone or closed pizza, but produced with a softer dough. The most common fillings are tomato and mozzarella, but spinach, mushrooms, baby corn, and ham are often used. The dish has many variations."
+        },
+        {
+            "id": 148,
+            "name": "Papanași",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Piononos_de_Santa_F%C3%A9-Madrid.jpg/120px-Piononos_de_Santa_F%C3%A9-Madrid.jpg",
+            "origin": "Romania",
+            "description": "A Papanași is a Romanian traditional fried pastry resembling a small sphere, usually filled with a soft cheese such as urdă and cherry or morello jam. Pictured is Papanași with sour cherries (morello) and powdered sugar."
+        },
+        {
+            "id": 149,
+            "name": "Paper wrapped cake",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pithivier.jpg/120px-Pithivier.jpg",
+            "origin": "Hong Kong",
+            "description": "Chinese pastry, one of the most standard pastries served in Hong Kong. It can also be found in most Chinatown bakery shops overseas. In essence, it is a chiffon cake baked in a paper cup."
+        },
+        {
+            "id": 150,
+            "name": "Paris–Brest",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Placinta.jpg/120px-Placinta.jpg",
+            "origin": "France",
+            "description": "Made of choux pastry and a praline flavoured cream. It was created in 1891 to commemorate the Paris–Brest–Paris bicycle race.[74] Its circular shape is representative of a wheel. It became popular with riders on the Paris–Brest cycle race, partly because of its energy-giving high calorific value, and is now found in pâtisseries all over France [1]."
+        },
+        {
+            "id": 151,
+            "name": "Paste",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Po%C4%9Fa%C3%A7a_bread.jpg/120px-Po%C4%9Fa%C3%A7a_bread.jpg",
+            "origin": "Mexico",
+            "description": "Small pastry produced in central Mexico. Unlike empanadas, the filling ingredients for pastes are not cooked before they are wrapped in the pastry casing.  Pastes use a firm and thin layer of dough."
+        },
+        {
+            "id": 152,
+            "name": "Pastel",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/04477_Poppy_seed_cake_Makowiec.jpg/120px-04477_Poppy_seed_cake_Makowiec.jpg",
+            "origin": "Latin America",
+            "description": "A name given to different typical dishes of many countries of Hispanic or Portuguese origin. For example, In Brazil, a pastel is a typical fast food Brazilian dish, consisting of thin pastry envelopes wrapped around assorted fillings, then deep fried in vegetable oil. Pictured is a Brazilian pastel."
+        },
+        {
+            "id": 153,
+            "name": "Pastizz",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ChickenpotpiesopenFeb09.jpg/120px-ChickenpotpiesopenFeb09.jpg",
+            "origin": "Malta",
+            "description": "A savory pastry from Malta, pastizzi usually have a filling either of ricotta or of mushy peas, and are called pastizzi tal-irkotta, \"cheesecakes\", or pastizzi tal-piżelli, \"peacakes\", accordingly.[75][76] Pastizzi are a popular and well-known Maltese food. Pictured are two varieties of Maltese pastizzi."
+        },
+        {
+            "id": 154,
+            "name": "Pastry heart",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/PrekmurskaGibanica1.JPG/120px-PrekmurskaGibanica1.JPG",
+            "origin": "United States (Buffalo, New York area)",
+            "description": "A regional dessert item found in the Buffalo, New York area.[77][78] The pastry heart is a heart shaped flaky puff pastry, similar to a palmier or palm leaves pastry, that is usually topped with a white sugar icing that has a hard shell but is soft on the inside.[77][79]"
+        },
+        {
+            "id": 155,
+            "name": "Pâté Chaud",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BrezelnSalz02_%28cropped%29.JPG/120px-BrezelnSalz02_%28cropped%29.JPG",
+            "origin": "Vietnam",
+            "description": "A puff pastry in Vietnamese cuisine, its name means \"hot pie\" in French. The pastry is made of a light layered and flaky exterior with a meat filling. Traditionally, the filling consists of a pork meat, but today, chicken and beef are commonly used."
+        },
+        {
+            "id": 156,
+            "name": "Paxlava",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Cream_puff.jpg/120px-Cream_puff.jpg",
+            "origin": "Azerbaijan",
+            "description": "\"Paxlava\" is traditional Azerbaijani pastry consist of different thin layers and poured bu sherbet (sweet water). Also contains nuts and walnuts."
+        },
+        {
+            "id": 157,
+            "name": "Pecan pie",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Empanadas_de_At%C3%BAn-2009_%28cropped%29.jpg/120px-Empanadas_de_At%C3%BAn-2009_%28cropped%29.jpg",
+            "origin": "United States (southern)",
+            "description": "Pecan pie is primarily composed of corn syrup or molasses and pecans, in a pastry pie crust. Tradition holds that the French invented pecan pie soon after settling in New Orleans, after being introduced to the nut by Native Americans.[citation needed] Attempts to trace the dish's origin, however, have not found any recipes dated earlier than 1897,[80] and well-known cookbooks such as Fannie Farmer and The Joy of Cooking did not include it before 1940.[81] The makers of Karo syrup popularized the dish and many of its recipes."
+        },
+        {
+            "id": 158,
+            "name": "Filo[clarification needed]",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Puits_d%27amour.jpg/120px-Puits_d%27amour.jpg",
+            "origin": "Middle East, Balkans",
+            "description": "Paper-thin sheets of unleavened flour dough used for making pastries. filo is often used in Middle Eastern and Balkan cuisine. Pictured is Baklava made with the dough. An early, thick form of filo appears to be of Central Asian Turkic origin.[82][83] May also be spelt as \"Filo pastry\"; this is quite a common spelling for this form of pastry in the United Kingdom."
+        },
+        {
+            "id": 159,
+            "name": "Pie",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dammsugare_%28cropped%29.JPG/120px-Dammsugare_%28cropped%29.JPG",
+            "origin": "",
+            "description": "A pie is a baked dish which is usually made of a pastry dough casing that covers or completely contains a filling of various sweet or savory ingredients. Pictured is a homemade meat pie. For an extensive list of pies, see: List of pies, tarts and flans."
+        },
+        {
+            "id": 160,
+            "name": "Pineapple bun",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Punschkrapfen.jpg/120px-Punschkrapfen.jpg",
+            "origin": "Hong Kong",
+            "description": "A sweet pastry popular in Hong Kong, Macau, and some other areas in southern China including Guangzhou and Shenzen, and also in various Chinese communities around the world. The top of the pineapple bun (shaped to resemble a pineapple) is made of a dough similar to that used to make sugar cookies, which consists of sugar, eggs, flour, and lard. As such, it is crunchy and is quite sweet compared to the bread underneath. The bread dough underneath is the same used in Chinese style Western breads, which is a softer and sweeter dough compared to Western breads. Usually contains no actual pineapple."
+        },
+        {
+            "id": 161,
+            "name": "Pineapple cake",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Qottab.jpg/120px-Qottab.jpg",
+            "origin": "Taiwan",
+            "description": "Pineapple cake is a sweet traditional Taiwanese pastry containing butter, flour, egg, sugar, and pineapple jam or pineapple slices."
+        },
+        {
+            "id": 162,
+            "name": "Pionono",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Quesitos.jpg/120px-Quesitos.jpg",
+            "origin": "Hispanic",
+            "description": "May refer to several varieties of pastry popular in Spain, Latin America and The Philippines. Pictured are pionono in Málaga, Spain."
+        },
+        {
+            "id": 163,
+            "name": "Pithivier",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kringle_%286868378753%29.jpg/120px-Kringle_%286868378753%29.jpg",
+            "origin": "France (probably Pithiviers)",
+            "description": "(Pithiviers in French) is a round, enclosed pie usually made by baking two disks of puff pastry, with filling stuffed in between. It has the appearance of a hump and is traditionally decorated with spiral lines drawn from the top outwards with the point of a knife, and scalloping the edge. The filling is always placed as a lump in the middle of the bottom dough layer, rather than spread on it, because it would then liquefy and leak during baking. The pie is traditionally finished with a distinct shine to the top of the crust, by egg-washing beforehand, or by caramelising a dusting of confectioner's sugar at the end of baking, or both. Whilst the filling of the Pithivier is often a sweet frangipane of almond paste, (optionally combined with fruit such as cherry or plum), savory pies with a meat or cheese filling can also be termed as a Pithivier."
+        },
+        {
+            "id": 164,
+            "name": "Plăcintă",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Rhubarb_tart.jpg/120px-Rhubarb_tart.jpg",
+            "origin": "Romania",
+            "description": "Plăcintă[84] is a Romanian traditional pastry resembling a thin, small round or square-shaped cake, usually filled with a soft cheese such as Urdă or apples."
+        },
+        {
+            "id": 165,
+            "name": "Poffertjes (Dutch) Æbleskiver (Danish)",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Roll%C3%B2_nisseno_5.JPG/120px-Roll%C3%B2_nisseno_5.JPG",
+            "origin": "Northern Europe",
+            "description": "A style of pancake with origins in the Northern Europe. They are much smaller and thicker than their American or Scotch pancake or as french Crêpes. They can be leavened by yeast, egg white, or a chemical agent like baking powder."
+        },
+        {
+            "id": 166,
+            "name": "Pogača",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Roti_John_-_served.jpg/120px-Roti_John_-_served.jpg",
+            "origin": "Balkans",
+            "description": "Puff pastry eaten in Albania, Bosnia and Herzegovina, Bulgaria, Croatia, Montenegro, North Macedonia, Serbia, Slovenia, Hungary (see pogácsa) and Turkey (where it is called poğaça) with variations. It is called pogatschen in Austria. Pogača is sometimes served hot as an appetizer instead of bread. Hot pogača filled with sour cream (or feta cheese in Turkey and Bulgaria) is considered a particularly delicious specialty."
+        },
+        {
+            "id": 167,
+            "name": "Poppy seed roll",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/RotiTissue001.jpg/120px-RotiTissue001.jpg",
+            "origin": "Central Europe",
+            "description": "Roll of sweet yeast bread (a viennoiserie) with a dense, rich, bittersweet filling of poppy seed. A popular cuisine in parts of Central Europe, Eastern Europe and in Israel. An alternative filling is a paste of minced walnuts, making it a walnut roll."
+        },
+        {
+            "id": 168,
+            "name": "Pot pie",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Roze_koek.jpg/120px-Roze_koek.jpg",
+            "origin": "United States",
+            "description": "Baked savory pie with a bottom and top completely encased by flaky crusts and baked inside a pie tin to support its shape. This is in contrast to the Australian meat pie and many British regional variants on pie recipes, which may have a top of flaky pastry, but whose body is made from heavier, more mechanically stable shortcrust, hot water crust or similar pastry. The pot pie is a variation of the pasty. Many varieties of pot pies exist."
+        },
+        {
+            "id": 169,
+            "name": "Prekmurska gibanica",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Blackberry_Rugelach_%28cropped%29.jpg/120px-Blackberry_Rugelach_%28cropped%29.jpg",
+            "origin": "Slovenia",
+            "description": "Gibanica or layered cake that includes a thinly-rolled pastry dough in its preparation. It originated in the region of Prekmurje, Slovenia.[85] It contains poppy seeds, walnuts, apples, raisins, and ricotta fillings. Although native to Prekmurje, it has achieved the status of a national speciality of Slovenia. It is also popular in northern Croatia."
+        },
+        {
+            "id": 170,
+            "name": "Pretzel",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Runebergintorttu.jpg/120px-Runebergintorttu.jpg",
+            "origin": "Europe",
+            "description": "Baked dough in soft and hard varieties and savory or sweet flavors in a unique knot-like shape, originating in Europe. The pretzel shape is a distinctive symmetrical looped form, with the ends of a long strip of dough intertwine brought together and then twisted back onto itself in a certain way (\"a pretzel loop\"). Sweet pastry pretzels exist with many various textures, toppings and coatings."
+        },
+        {
+            "id": 171,
+            "name": "Profiterole",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rustico_leccese.jpg/120px-Rustico_leccese.jpg",
+            "origin": "France",
+            "description": "Known as a \"cream puff\" in the United States, a profiterole is a choux pastry ball filled with whipped cream, pastry cream, or ice cream. This treat is typically very sweet. The puffs may be decorated or left plain or garnished with chocolate sauce, caramel, or a dusting of powdered sugar."
+        },
+        {
+            "id": 172,
+            "name": "Puff pastry",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Samosachutney.jpg/120px-Samosachutney.jpg",
+            "origin": "Europe",
+            "description": "In baking, a puff pastry is a light, flaky, leavened pastry containing several layers of fat which is in solid state at 20 °C (68 °F). In raw form, puff pastry is a dough which is spread with solid fat and repeatedly folded and rolled out (never mashed, as this will destroy layering) and used to produce various pastries. It is sometimes called a \"water dough\" or détrempe."
+        },
+        {
+            "id": 173,
+            "name": "Puits d'amour",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Schaumrollen.jpg/120px-Schaumrollen.jpg",
+            "origin": "France",
+            "description": "A butter pastry with a hollow center. The center is usually stuffed with redcurrant jelly or raspberry jam; a later variation replaced the jam with vanilla pastry cream. The surface of the cake is sprinkled with confectioners' sugar or covered with caramel. The name has erotic connotations; it literally translates into English as 'wells of love.’"
+        },
+        {
+            "id": 174,
+            "name": "Punsch-roll",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Schnecken_pastry_-_01.jpg/120px-Schnecken_pastry_-_01.jpg",
+            "origin": "Sweden",
+            "description": "A Swedish, small cylindrical pastry covered with green marzipan with the ends dipped in chocolate, with an interior consisting of a mix of crushed cookies, butter, and cacao, flavoured with punsch liqueur. The Dutch variant is called mergpijpje, and is cream-colored instead of green. Often called dammsugare (\"vacuum cleaner\"), referring not only to its appearance, but also to the supposed practice of the pastry baker collecting crumbs from the day's cookies for filling.[citation needed] Other names are arraksrulle (as arrak is an ingredient in punsch) and \"150-ohmer\" (due to the brown-green-brown coloring).[citation needed] In Denmark, these treats are known as Træstammer (\"wooden logs\"); the interior cacao-paste is flavoured with rum and the marzipan is usually not coloured."
+        },
+        {
+            "id": 175,
+            "name": "Punschkrapfen",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Schneeball-gebaeck.jpeg/120px-Schneeball-gebaeck.jpeg",
+            "origin": "Austria",
+            "description": "Translated in English as \"punch cake\", a classical confection of pastry with a rum flavor. It is similar to the French pastry, the petit four. Commonly available in pastry shops and bakeries in Austria. It is a cake filled with cake crumbs, nougat chocolate, apricot jam and then soaked with rum."
+        },
+        {
+            "id": 176,
+            "name": "Qottab",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Schuxen.jpg/120px-Schuxen.jpg",
+            "origin": "Iran",
+            "description": "An almond-filled deep-fried Persian cake,[86] prepared with flour, almonds, powdered sugar, vegetable oil, and cardamom. The city of Yazd is well known for its qottab."
+        },
+        {
+            "id": 177,
+            "name": "Quesito",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/SemlaFlickr.jpg/120px-SemlaFlickr.jpg",
+            "origin": "Puerto Rico",
+            "description": "A cheese-filled pastry twist from Puerto Rico.[87] The cheese is usually whipped with vanilla, eggs, and sugar. The cheese can also be whipped with guava, papaya and other tropical fruit preserves. The mixture is stuffed into a dough that resembles puff pastry, coated in a sugary caramelized syrup, and baked."
+        },
+        {
+            "id": 178,
+            "name": "Rab cake",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Moroccan_donuts-01.jpg/120px-Moroccan_donuts-01.jpg",
+            "origin": "Croatia",
+            "description": "A traditional Croatian cake which originates from the Adriatic island of Rab. Its main ingredients are almonds and Maraschino liqueur. Traditionally baked in the shape of a spiral, although today several shapes are popular. It is also a very popular souvenir because it has a shelf life of about two months.[citation needed]"
+        },
+        {
+            "id": 179,
+            "name": "Remonce",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sfogliatelle_pic.jpg/120px-Sfogliatelle_pic.jpg",
+            "origin": "Denmark",
+            "description": "A Danish pastry filling or topping made from creamed butter and sugar, sometimes flavored with cinnamon, marzipan or nuts.[88][89][90]"
+        },
+        {
+            "id": 180,
+            "name": "Reuzenbol",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Recette_pate_brisee_etape_6.jpg/120px-Recette_pate_brisee_etape_6.jpg",
+            "origin": "Netherlands",
+            "description": "Similar to a giant profiterole, or a larger version of a bossche bol."
+        },
+        {
+            "id": 181,
+            "name": "Rhubarb tart",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Shekerbura.jpg/120px-Shekerbura.jpg",
+            "origin": "England",
+            "description": "Consists of a pastry crust filled with rhubarb."
+        },
+        {
+            "id": 182,
+            "name": "Rollò",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Char_siew_sou.JPG/120px-Char_siew_sou.JPG",
+            "origin": "Italy",
+            "description": "The rollà nisseno (from French roule) is a typical sweet of Caltanissetta produced by local bakers for a long time. It is consumed year-round, not being tied to any event or occasion. The ingredients are: whole eggs; flour, ground almonds, sugar, cocoa powder that characterizes the sponge cake which in turn rolls up the ricotta and the heart (marzipan)."
+        },
+        {
+            "id": 183,
+            "name": "Roti john",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Spanikopita_Greek_dish.jpg/120px-Spanikopita_Greek_dish.jpg",
+            "origin": "Malaysia",
+            "description": "A type of sandwich using Baguette-type loaf served with omelette, minced meat and onion. A popular snack in Malaysia, also in Brunei and Singapore."
+        },
+        {
+            "id": 184,
+            "name": "Roti tissue",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Spina_santa_composizione_04.JPG/120px-Spina_santa_composizione_04.JPG",
+            "origin": "Malaysia",
+            "description": "Also known as roti tisu or tissue prats, one of the more-creative-looking Malaysian Mamak foods. It is also known as roti helikopter (helicopter bread). Roti tissue is a thinner version of the traditional roti canai, as thin as a piece of 40–50 cm round-shaped tissue. The finishing touches to the making of roti tissue require skill, and they depend on the creativity of the maker. Pictured: Roti tissue, and a glass of Teh tarik"
+        },
+        {
+            "id": 185,
+            "name": "Roze koek",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Caramel_Apple_Cheesecake_Bars_with_Streusel_Topping.jpg/120px-Caramel_Apple_Cheesecake_Bars_with_Streusel_Topping.jpg",
+            "origin": "Netherlands",
+            "description": "Roze koek (\"pink cake\") is a typical Dutch pastry that consists of a small flat cake with a layer of pink fondant. The most well-known brand is Glacé."
+        },
+        {
+            "id": 186,
+            "name": "Rugelach",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Pecan_Strudel_profile%2C_November_2009.jpg/120px-Pecan_Strudel_profile%2C_November_2009.jpg",
+            "origin": "Jewish (Ashkenazi)",
+            "description": "A Jewish pastry of Ashkenazic origin. A more probable origin is that of its Eastern European (Romanian) traditional pastry counterpart called Cornulete.[citation needed] Traditional rugelach are made in the form of a crescent by rolling a triangle of dough around a filling.[91][92] Some sources state that the rugelach and the French croissant share a common Viennese ancestor, crescent-shaped pastries commemorating the lifting of the Turkish siege in 1793[93] (this could be a reference to the Battle of Vienna in 1683). This appears to be an urban legend however, as both the rugelach and its supposed ancestor (the Kipfel or Kipferl) pre-date the Early Modern era, and the croissant in its modern form did not originate earlier than the 19th century (see viennoiserie)."
+        },
+        {
+            "id": 187,
+            "name": "Runeberg's torte",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Weckmann.jpg/120px-Weckmann.jpg",
+            "origin": "Finland",
+            "description": "A Finnish pastry flavored with almonds and rum or arrack and it usually weighs about 100 grams. There is usually raspberry jam in a sugar ring on the tart. The torte got its name from the Finnish poet Johan Ludvig Runeberg (1804–1877) who, according to legend, enjoyed the torte with punsch for every breakfast."
+        },
+        {
+            "id": 188,
+            "name": "Rustico",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Sufganiyah.jpg/120px-Sufganiyah.jpg",
+            "origin": "Salento, Italy",
+            "description": "Made with puff pastry and a stuffing that varies style by style"
+        },
+        {
+            "id": 189,
+            "name": "Sad cake",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Taichung_Sun_Cake.JPG/120px-Taichung_Sun_Cake.JPG",
+            "origin": "United Kingdom (Lancashire)",
+            "description": "Similar to the Chorley cake, sad cakes are made using a similar recipe and have origins in East Lancashire, England. Sad cake is often up to 12 inches (30 cm) in diameter, as opposed to the Chorley cake being 3 to 5 inches (8 to 12 cm) and is made by rolling out the pastry and dropping raisins and or currants evenly over the pastry then folding in on several sides and then rolling out again to the required size, usually round but can be square."
+        },
+        {
+            "id": 190,
+            "name": "Samosa",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Wifecake.jpg/120px-Wifecake.jpg",
+            "origin": "Indian subcontinent",
+            "description": "A fried or baked pastry with a savory filling such as spiced potatoes, onions, peas, lentils, ground lamb or chicken. The size, shape and consistency may vary, but many versions are triangular. Samosas are often accompanied by chutney.[94] Samosas are a popular appetizer or snack in the Indian subcontinent, Southeast Asia, Central Asia and Southwest Asia, the Arabian Peninsula, the Mediterranean, the Horn of Africa, North Africa, and South Africa."
+        },
+        {
+            "id": 191,
+            "name": "Schaumrolle",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Taiyaki.jpg/120px-Taiyaki.jpg",
+            "origin": "Austria",
+            "description": "Cone or tube of pastry, often filled with whipped cream"
+        },
+        {
+            "id": 192,
+            "name": "Schnecken",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Strawberry-Pop-Tarts.jpg/120px-Strawberry-Pop-Tarts.jpg",
+            "origin": "Germany",
+            "description": "Schnecken were a traditional Saturday morning treat in German homes at the beginning of the 20th century, and was also commonly found in the Jewish immigrant communities in the Philadelphia and Baltimore areas of the United States. The name schnecken means \"snails\" in English, and refers to the shape of the pastry. Schnecken are commonly confused with rugelach, another German pastry that is different in two respects: (1) schnecken dough is made with sour cream, while rugelach is made with cream cheese; and (2) schnecken are rolled and sliced, whereas rugelach are formed from individual triangles of dough."
+        },
+        {
+            "id": 193,
+            "name": "Schneeball",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Rurki_z_kremem.jpg/120px-Rurki_z_kremem.jpg",
+            "origin": "Germany",
+            "description": "Made from shortcrust pastry, they are especially popular in the area of German town of Rothenburg ob der Tauber (Bavaria). Its name (German for \"snowball\") derives from its round ball-like shape with a diameter of about eight to ten centimeters and the traditional decoration with confectioner's sugar. The main ingredients are flour, eggs, sugar, butter, cream, and plum schnaps. To give it the characteristic shape the dough is rolled out and cut with a dough cutter into even strips. The strips are then arranged alternately over and under a stick, or the handle of a wooden spoon. Eventually the stick is lifted and slowly removed while the dough stripes are formed into a loose ball. Using a special holder called a Schneeballeneisen in order to retain the shape, the ball is deep-fried in boiling fat until golden brown, and finally dusted with confectioner's sugar while still warm."
+        },
+        {
+            "id": 194,
+            "name": "Schuxen",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Coupe_transversale_d%27_un_Tortell_de_Reis.JPG/120px-Coupe_transversale_d%27_un_Tortell_de_Reis.JPG",
+            "origin": "Germany",
+            "description": "A popular pastry in Upper Bavaria, schuxen is an elongate fried dough pastry made from rye flour and yeast. Similar to krapfen with the difference that it isn't sweet. Nowadays they are rare, and few bakers produce them.[citation needed]"
+        },
+        {
+            "id": 195,
+            "name": "Semla",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tortitas_negras.jpg/120px-Tortitas_negras.jpg",
+            "origin": "Sweden",
+            "description": "The oldest version of the semla was a plain bread bun, eaten in a bowl of warm milk. In Swedish this is known as hetvägg, from Middle Low German hete Weggen (hot wedges) or German heisse Wecken (hot buns) and falsely interpreted as \"hotwall\".[95][96][97]Today, the Swedish-Finnish semla[98] consists of a cardamom-spiced wheat bun which has its top cut off and insides scooped out, and is then filled with a mix of the scooped-out bread crumbs, milk and almond paste, topped with whipped cream. The cut-off top serves as a lid and is dusted with powdered sugar. Some people still eat it in a bowl of hot milk."
+        },
+        {
+            "id": 196,
+            "name": "Sfenj",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/SkalickyTrdelnik_%28cropped%29.JPG/120px-SkalickyTrdelnik_%28cropped%29.JPG",
+            "origin": "North Africa",
+            "description": "A Moroccan, Algerian and Tunisian doughnut, cooked in oil. Sfenjs are eaten sprinkled with sugar or soaked in honey. Sfenj is an Arabic word (\"isfenj\") which means \"sponge\"."
+        },
+        {
+            "id": 197,
+            "name": "Sfogliatelle",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Pastry-Turnover-Apple.jpg/120px-Pastry-Turnover-Apple.jpg",
+            "origin": "Italy",
+            "description": "Sfogliatelle are shell shaped filled pastries native to Italian cuisine. \"Sfogliatelle\" means \"many leaves/layers,\" the pastry's texture resembling leaves stacked on each other. Filling recipes also vary; some examples are an orange-flavored ricotta filling, almond paste or candied peel of citron.  Italian-American bakeries, especially in the New York City area, created a cousin pastry to the sfogliatelle in the 1900s called a \"lobster tail\" or \"egg plant\" version. The pastry has the same outside as sfogliatelle, but instead of the ricotta filling, there is a French cream, similar to whipped cream inside."
+        },
+        {
+            "id": 198,
+            "name": "Shortcrust pastry",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Otap.jpg/120px-Otap.jpg",
+            "origin": "Europe",
+            "description": "Often used for the base of a tart, quiche or pie. It does not puff up during baking because it usually contains no leavening agent. It is possible to make shortcrust pastry with self-raising flour, however. Shortcrust pastry can be used to make both sweet and savory pies."
+        },
+        {
+            "id": 199,
+            "name": "Shakarbura",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Vatrushka.jpg/120px-Vatrushka.jpg",
+            "origin": "Azerbaijan",
+            "description": "Sweet dough with the filling of minсed nuts and sugar"
+        },
+        {
+            "id": 200,
+            "name": "Sou",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Vetkoek_with_mince-001.jpg/120px-Vetkoek_with_mince-001.jpg",
+            "origin": "China",
+            "description": "Dried flaky Chinese pastry found in a variety of Chinese cuisines. In dim sum restaurants, char siu sou (叉燒酥) is the most common version available. Other varieties may include century egg and lotus seed paste. These are commonly found in Hong Kong or Singapore in Asia. They may occasionally be found in some overseas Chinatowns. In Shanghai cuisine, a number of dried varieties are available, such as peanut sou (花生酥), green bean sou (綠豆酥) or walnut sou (核桃酥). People often buy them for souvenirs in boxed forms."
+        },
+        {
+            "id": 201,
+            "name": "Spanakopita",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pain_au_chocolat_Luc_Viatour.jpg/120px-Pain_au_chocolat_Luc_Viatour.jpg",
+            "origin": "Greece",
+            "description": "A Greek savory pastry is in the burek family of pastries. It typically consists of a filling of chopped spinach, feta cheese (sometimes in combination with ricotta cheese, as it is less expensive, and adds creaminess), onions or scallions, beaten egg, and seasoning.[99] The filling is wrapped or layered in filo pastry with butter and/or olive oil, either in a large pan from which individual servings are cut, or rolled into individual triangular servings (see burek)."
+        },
+        {
+            "id": 202,
+            "name": "Spina santa",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Vol-au-vent-1.jpg/120px-Vol-au-vent-1.jpg",
+            "origin": "Italy",
+            "description": "Sweet of the religious tradition of Caltanissetta, in memory of the Passion of Christ."
+        },
+        {
+            "id": 203,
+            "name": "Streusel",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Closeup_of_Welsh_cakes%2C_February_2009.jpg/120px-Closeup_of_Welsh_cakes%2C_February_2009.jpg",
+            "origin": "Germany",
+            "description": "In baking and pastry making, streusel is a crumb topping prepared with butter, flour, and sugar that is baked on top of muffins, breads, pies, cakes (e.g. Streuselkuchen) and crumbles. Some modern recipes add spices and chopped nuts. Although the topping is of German origin, it is sometimes referred to as Danish or Swedish.[citation needed] Pictured is a caramel-apple cheesecake bar with streusel topping."
+        },
+        {
+            "id": 204,
+            "name": "Strudel",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Xuixo.jpg/120px-Xuixo.jpg",
+            "origin": "Central Europe",
+            "description": "Layered pastry, typically with a sweet filling inside. Often served with cream. Strudel became well known and gained popularity in the 18th century through the Habsburg Empire. Pictured is a pecan strudel. See also – Apple strudel; Milk-cream strudel"
+        },
+        {
+            "id": 205,
+            "name": "Stutenkerl",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Zeeuwse_bolus_met_boter.jpg/120px-Zeeuwse_bolus_met_boter.jpg",
+            "origin": "Germany",
+            "description": "Part of the Saint Nicholas tradition in the German speaking countries. Made of Stuten, sweet leavened dough, in the form of a man (Kerl is German for 'lad' or 'fellow'). Stutenkerl is available usually around Saint Nicholas' Day, December 6, but in parts of the Rhineland already at Saint Martin's Day in November. The pastry often has inserted raisins and a clay pipe. This pipe may have to do with the Protestant Reformation, to make the originally Catholic bishop figure more secular."
+        },
+        {
+            "id": 206,
+            "name": "Sufganiyah",
+            "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Awadhi_jalebi.jpg/120px-Awadhi_jalebi.jpg",
+            "origin": "Israel",
+            "description": "A ball-shaped doughnut that is first deep-fried, then pierced and injected with jelly or custard, and then topped with powdered sugar. Widely consumed in Israel in the weeks leading up to and including the Hanukkah holiday.[100]The same type of deep-fried bun is a traditional pastry in German speaking countries and has diverse names. There, it is traditionally consumed on New Year's Eve and the carnival holidays. In Denmark they are wellknown as Berliner van kuchen or just Berliner."
+        }
+    ]
