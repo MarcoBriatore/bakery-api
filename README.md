@@ -6,16 +6,16 @@
 
   - /api
       - /coockies 
-      - /coockies/{id}
-      - /coockies/total
+        - /{id}
+        - /total
       
       - /cakes 
-      - /cakes/{id}
-      - /cakes/total
+        - /{id}
+        - /total
       
       - /pastries
-      - /pastries/{id}
-      - /pastries/total
+        - /{id}
+        - /total
       
       
 #### Details
